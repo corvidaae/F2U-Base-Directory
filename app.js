@@ -11,8 +11,7 @@
   const tagsOf = x => Array.isArray(x.tags) ? x.tags : String(x.tags||"").split(",");
   const catsOf = x => Array.isArray(x.categories) ? x.categories : String(x.categories||x.category||"").split(",");
   function normalize(x,i) {
-    const baseName=String(x.baseName||x["BASE NAME"]||x.label||x.name||"").trim();
-    return {id:String(x.id ?? i+1),baseName,label:baseName||"Untitled base",credit:x.credit||"",creator:x.creator||"",permission:x.permission||x.exclusivity||"",type:x.type||"",tags:tagsOf(x).map(t=>String(t).trim()).filter(Boolean),categories:catsOf(x).map(t=>String(t).trim()).filter(Boolean),preview:validUrl(x.preview||x.image||x.previewImage),site:x.site||x.platform||"",link:validUrl(x.link||x.url||""),creatorLink:validUrl(x.creatorLink||""),source:x.source||""};
+    return {id:String(x.id ?? i+1),label:x.label||x.name||x.credit||"Untitled base",credit:x.credit||x.creator||"",creator:x.creator||"",permission:x.permission||x.exclusivity||"",type:x.type||"",tags:tagsOf(x).map(t=>String(t).trim()).filter(Boolean),categories:catsOf(x).map(t=>String(t).trim()).filter(Boolean),preview:validUrl(x.preview||x.image||x.previewImage),site:x.site||x.platform||"",link:validUrl(x.link||x.url||""),creatorLink:validUrl(x.creatorLink||""),source:x.source||""};
   }
   function fillSelect(el, values, first) {
     const current=el.value; el.innerHTML=`<option value="">${first}</option>`+values.map(v=>`<option value="${safe(v)}">${safe(v)}</option>`).join("");
@@ -27,7 +26,7 @@
     els.cats.textContent=uniq(all.flatMap(catsOf)).length.toLocaleString();
   }
   function matches(x,q) {
-    const hay=[x.baseName,x.label,x.credit,x.creator,x.permission,x.type,x.site,...x.tags,...x.categories].join(" ").toLowerCase();
+    const hay=[x.label,x.credit,x.creator,x.permission,x.type,x.site,...x.tags,...x.categories].join(" ").toLowerCase();
     return !q || hay.includes(q);
   }
   function apply() {
@@ -61,7 +60,7 @@
     const image=x.preview?`<img class="detail-image" src="${safe(x.preview)}" alt="Preview for ${safe(x.label)}">`:"";
     const tags=x.tags.map(t=>`<span class="tag">${safe(t)}</span>`).join("");
     const cats=x.categories.map(t=>safe(t)).join(", ");
-    $("#detail-content").innerHTML=`<p class="eyebrow">${safe(cats||"BASE DIRECTORY")}</p><h2 class="detail-title">${safe(x.label)}</h2><p class="card-creator">Credit: ${safe(x.credit||"Not listed")}</p>${image}<div class="detail-meta"><div><small>Usage permission</small><strong>${safe(x.permission||"Not listed")}</strong></div><div><small>Base type</small><strong>${safe(x.type||"Not listed")}</strong></div><div><small>Platform</small><strong>${safe(x.site||"Not listed")}</strong></div><div><small>Creator</small><strong>${safe(x.creator||x.credit||"Not listed")}</strong></div></div><h3>Tags</h3><div class="detail-tags">${tags||'<span class="card-creator">No tags listed.</span>'}</div><p class="filter-note">Usage labels are generalized. Read the original creator's terms before using, editing, or redistributing this base.</p><div class="detail-actions">${x.link?`<a href="${safe(x.link)}" target="_blank" rel="noopener noreferrer">Visit original listing ↗</a>`:""}${x.creatorLink?`<a class="secondary" href="${safe(x.creatorLink)}" target="_blank" rel="noopener noreferrer">Creator profile ↗</a>`:""}</div>`;
+    $("#detail-content").innerHTML=`<p class="eyebrow">${safe(cats||"BASE DIRECTORY")}</p><h2 class="detail-title">${safe(x.label)}</h2><p class="card-creator">Credited to ${safe(x.credit||x.creator||"Unknown creator")}</p>${image}<div class="detail-meta"><div><small>Usage permission</small><strong>${safe(x.permission||"Not listed")}</strong></div><div><small>Base type</small><strong>${safe(x.type||"Not listed")}</strong></div><div><small>Platform</small><strong>${safe(x.site||"Not listed")}</strong></div><div><small>Creator</small><strong>${safe(x.creator||x.credit||"Not listed")}</strong></div></div><h3>Tags</h3><div class="detail-tags">${tags||'<span class="card-creator">No tags listed.</span>'}</div><p class="filter-note">Usage labels are generalized. Read the original creator's terms before using, editing, or redistributing this base.</p><div class="detail-actions">${x.link?`<a href="${safe(x.link)}" target="_blank" rel="noopener noreferrer">Visit original listing ↗</a>`:""}${x.creatorLink?`<a class="secondary" href="${safe(x.creatorLink)}" target="_blank" rel="noopener noreferrer">Creator profile ↗</a>`:""}</div>`;
     if(!els.dialog.open) els.dialog.showModal();
     const url=new URL(location.href); url.searchParams.set("base",x.id); history.replaceState({}, "",url);
   }
@@ -99,7 +98,8 @@
   els.dialog.addEventListener("close",()=>{const url=new URL(location.href);url.searchParams.delete("base");history.replaceState({}, "",url);});
   document.addEventListener("keydown",e=>{if(e.key==="/"&&!/input|textarea|select/i.test(document.activeElement.tagName)){e.preventDefault();els.search.focus();}});
   $("#submission-form").addEventListener("submit",async e=>{
-    e.preventDefault(); const form=e.currentTarget, status=$("#form-status"), data=Object.fromEntries(new FormData(form).entries());
+    e.preventDefault(); const form=e.currentTarget, status=$("#form-status"), formData=new FormData(form), data=Object.fromEntries(formData.entries());
+    data.type = formData.getAll("type").join(", ");
     if(data.website){status.textContent="Thanks.";form.reset();return;}
     if(!cfg.apiUrl){status.textContent="Submission form is not connected yet. The administrator must deploy the Apps Script and add its URL in config.js.";return;}
     const btn=form.querySelector("button[type=submit]");btn.disabled=true;btn.textContent="Sending…";
