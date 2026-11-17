@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse and search a community base directory.">
+  <title>Base Directory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="./" aria-label="Base Directory home"><span class="brand-mark">✦</span><span>BASE DIRECTORY</span></a>
+      <nav><a href="#directory">Browse</a><a href="#about">About</a><a href="#submit">Submit a base</a></nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">COMMUNITY RESOURCE</p>
+      <h1>Find your next <em>base.</em></h1>
+      <p class="hero-copy">A searchable directory of free-to-use and community-shared bases. Explore by species, style, creator, and usage permissions.</p>
+      <a class="primary-button" href="#directory">Explore the directory <span>↓</span></a>
+      <div class="hero-stats"><div><strong id="total-count">—</strong><span>directory entries</span></div><div><strong id="category-count">—</strong><span>categories</span></div><div><strong>Community</strong><span>maintained resource</span></div></div>
+    </section>
+
+    <section class="directory-section" id="directory">
+      <div class="section-heading">
+        <div><p class="eyebrow">THE COLLECTION</p><h2>Browse bases</h2></div>
+        <span class="result-count" id="result-count" aria-live="polite">Loading entries…</span>
+      </div>
+
+      <div class="toolbar">
+        <label class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search names, creators, tags…" autocomplete="off"><kbd>/</kbd></label>
+        <label class="sort-wrap"><span>Sort by</span><select id="sort"><option value="featured">Default order</option><option value="name-asc">Name A–Z</option><option value="creator-asc">Creator A–Z</option><option value="permission">Usage permission</option></select></label>
+        <button class="filter-toggle" id="filter-toggle" aria-expanded="false">Filters <span>＋</span></button>
+      </div>
+
+      <div class="directory-layout">
+        <aside class="filters" id="filters">
+          <div class="filter-head"><h3>Filters</h3><button id="clear-filters" class="text-button">Clear all</button></div>
+          <label>Category<select id="category"><option value="">All categories</option></select></label>
+          <label>Usage permission<select id="permission"><option value="">Any permission</option></select></label>
+          <label>Base type<select id="type"><option value="">Any type</option></select></label>
+          <label>Platform<select id="site"><option value="">Any platform</option></select></label>
+          <label class="check-label"><input type="checkbox" id="has-preview"> Only show entries with previews</label>
+          <div class="filter-note">Always check the creator's original rules before using a base. Directory labels are general guidance, not a replacement for the original terms.</div>
+        </aside>
+        <div class="results-area">
+          <div id="active-filters" class="active-filters"></div>
+          <div id="cards" class="cards" aria-live="polite"></div>
+          <div id="empty" class="empty-state" hidden><span>✧</span><h3>No bases found</h3><p>Try a different search or clear some filters.</p><button class="secondary-button" id="empty-clear">Clear filters</button></div>
+          <div class="load-more-wrap"><button id="load-more" class="secondary-button" hidden>Load more</button></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="about-section" id="about">
+      <p class="eyebrow">PLEASE READ</p><h2>Respect the creator.</h2>
+      <p>Usage permissions shown here are simplified directory labels. Creators may have additional rules about credit, edits, commercial use, redistribution, or other restrictions. Visit the original listing and read its terms before using a base.</p>
+    </section>
+
+    <section class="submit-section" id="submit">
+      <div><p class="eyebrow">GROW THE DIRECTORY</p><h2>Know a base we missed?</h2><p>Send it in for review. Submissions are added to a pending queue and are not published automatically.</p></div>
+      <form id="submission-form" class="submission-form">
+        <label>Base / listing name<input name="label" required maxlength="120" placeholder="Name of the base"></label>
+        <div class="form-row"><label>Creator<input name="creator" required maxlength="100" placeholder="Creator username"></label><label>Platform<select name="site" required><option value="">Choose…</option><option>Toyhouse</option><option>DeviantArt</option><option>Ko-fi</option><option>Payhip</option><option>Gumroad</option><option>Carrd / Website</option><option>Other</option></select></label></div>
+        <label>Original listing URL<input name="link" type="url" required placeholder="https://…"></label>
+        <div class="form-row"><label>Usage permission<select name="permission"><option value="">Not sure</option><option>All usage</option><option>Adoptables only</option><option>Personal only</option></select></label><label>Base type<select name="type"><option value="">Not sure</option><option>Feral</option><option>Anthro</option><option>Humanoid</option><option>Anthro / Feral</option><option>Asset</option></select></label></div>
+        <label>Tags<input name="tags" maxlength="500" placeholder="feline, chibi, customizable"></label>
+        <label class="honeypot" aria-hidden="true">Leave this field blank<input name="website" tabindex="-1" autocomplete="off"></label>
+        <button class="primary-button" type="submit">Send for review <span>↗</span></button>
+        <p class="form-status" id="form-status" role="status">Submissions require the site administrator to configure the Google Apps Script endpoint.</p>
+      </form>
+    </section>
+  </main>
+
+  <footer><span>BASE DIRECTORY</span><span>Community resource · Verify original creator terms</span></footer>
+
+  <dialog id="detail-dialog" class="detail-dialog">
+    <button class="dialog-close" id="dialog-close" aria-label="Close details">×</button>
+    <div id="detail-content"></div>
+  </dialog>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
