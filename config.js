@@ -1,6 +1,5 @@
-
 window.BASE_DIRECTORY_CONFIG = {
-  apiUrl: "https://script.google.com/macros/s/AKfycbykii3lCo8M0-Tidx25P6xFUU43u4UenTQMY07h8Qv2R3pO3HBt5_8oIrwu--3l3Y1M/exec",
+  apiUrl: "https://script.google.com/macros/s/AKfycbwUP9wLXumSGDpOZyA_mP4rB06eIvTkOEzORRpJ9Tch59fknPY06eNewxfGAZXP8eVn/exec",
   dataUrl: "data.json",
   pageSize: 24
 };
