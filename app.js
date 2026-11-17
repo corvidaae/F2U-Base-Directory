@@ -3,7 +3,7 @@
   const $ = (s) => document.querySelector(s);
   let all = [], filtered = [], shown = 0;
   const pageSize = Number(cfg.pageSize) || 24;
-  const els = {search:$("#search"),sort:$("#sort"),category:$("#category"),permission:$("#permission"),type:$("#type"),site:$("#site"),preview:$("#has-preview"),cards:$("#cards"),count:$("#result-count"),total:$("#total-count"),cats:$("#category-count"),empty:$("#empty"),more:$("#load-more"),filters:$("#filters"),active:$("#active-filters"),dialog:$("#detail-dialog")};
+  const els = {search:$("#search"),sort:$("#sort"),category:$("#category"),permission:$("#permission"),typeFilters:[...document.querySelectorAll('input[name="type-filter"]')],site:$("#site"),preview:$("#has-preview"),cards:$("#cards"),count:$("#result-count"),total:$("#total-count"),cats:$("#category-count"),empty:$("#empty"),more:$("#load-more"),filters:$("#filters"),active:$("#active-filters"),dialog:$("#detail-dialog")};
 
   const safe = (v) => String(v ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const uniq = (arr) => [...new Set(arr.flat().filter(Boolean).map(x=>String(x).trim()))].sort((a,b)=>a.localeCompare(b));
@@ -20,7 +20,6 @@
   function setupFilters() {
     fillSelect(els.category,uniq(all.flatMap(catsOf)),"All categories");
     fillSelect(els.permission,uniq(all.map(x=>x.permission)),"Any permission");
-    fillSelect(els.type,uniq(all.map(x=>x.type)),"Any type");
     fillSelect(els.site,uniq(all.map(x=>x.site)),"Any platform");
     els.total.textContent=all.length.toLocaleString();
     els.cats.textContent=uniq(all.flatMap(catsOf)).length.toLocaleString();
@@ -30,8 +29,13 @@
     return !q || hay.includes(q);
   }
   function apply() {
-    const q=els.search.value.trim().toLowerCase(), c=els.category.value,p=els.permission.value,t=els.type.value,s=els.site.value;
-    filtered=all.filter(x=>matches(x,q)&&(!c||catsOf(x).includes(c))&&(!p||x.permission===p)&&(!t||x.type===t)&&(!s||x.site===s)&&(!els.preview.checked||!!x.preview));
+    const q=els.search.value.trim().toLowerCase(), c=els.category.value,p=els.permission.value,s=els.site.value;
+    const selectedTypes=els.typeFilters.filter(el=>el.checked).map(el=>el.value.toLowerCase());
+    filtered=all.filter(x=>{
+      const itemTypes=String(x.type||"").split(/[,;|]/).map(v=>v.trim().toLowerCase()).filter(Boolean);
+      const typeMatch=!selectedTypes.length||selectedTypes.some(t=>itemTypes.includes(t));
+      return matches(x,q)&&(!c||catsOf(x).includes(c))&&(!p||x.permission===p)&&typeMatch&&(!s||x.site===s)&&(!els.preview.checked||!!x.preview);
+    });
     const sort=els.sort.value;
     if(sort==="name-asc") filtered.sort((a,b)=>a.label.localeCompare(b.label));
     if(sort==="creator-asc") filtered.sort((a,b)=>(a.creator||a.credit).localeCompare(b.creator||b.credit));
@@ -42,8 +46,10 @@
     renderChips();
   }
   function renderChips() {
-    const filters=[["category",els.category],["permission",els.permission],["type",els.type],["site",els.site]];
-    els.active.innerHTML=filters.filter(([k,e])=>e.value).map(([k,e])=>`<button data-clear="${k}">${safe(e.value)} ×</button>`).join("")+(els.preview.checked?'<button data-clear="preview">Has preview ×</button>':"");
+    const filters=[["category",els.category],["permission",els.permission],["site",els.site]];
+    const standard=filters.filter(([k,e])=>e.value).map(([k,e])=>`<button data-clear="${k}">${safe(e.value)} ×</button>`).join("");
+    const types=els.typeFilters.filter(el=>el.checked).map(el=>`<button data-clear-type="${safe(el.value)}">${safe(el.value)} ×</button>`).join("");
+    els.active.innerHTML=standard+types+(els.preview.checked?'<button data-clear="preview">Has preview ×</button>':"");
   }
   function card(x) {
     const image=x.preview?`<img loading="lazy" src="${safe(x.preview)}" alt="" onerror="this.parentElement.innerHTML='<span class=&quot;no-image&quot;>PREVIEW UNAVAILABLE</span>'">`:'<span class="no-image">NO PREVIEW IMAGE</span>';
@@ -85,13 +91,13 @@
     setupFilters(); apply();
     const id=new URLSearchParams(location.search).get("base"); if(id) openDetail(id);
   }
-  [els.search,els.category,els.permission,els.type,els.site,els.preview,els.sort].forEach(el=>el.addEventListener(el===els.search?"input":"change",apply));
+  [els.search,els.category,els.permission,els.site,els.preview,els.sort,...els.typeFilters].forEach(el=>el.addEventListener(el===els.search?"input":"change",apply));
   $("#clear-filters").addEventListener("click",clearFilters); $("#empty-clear").addEventListener("click",clearFilters);
-  function clearFilters(){els.search.value="";els.category.value="";els.permission.value="";els.type.value="";els.site.value="";els.preview.checked=false;apply();}
+  function clearFilters(){els.search.value="";els.category.value="";els.permission.value="";els.typeFilters.forEach(el=>el.checked=false);els.site.value="";els.preview.checked=false;apply();}
   els.more.addEventListener("click",renderMore);
   els.cards.addEventListener("click",e=>{const c=e.target.closest("[data-id]");if(c)openDetail(c.dataset.id);});
   els.cards.addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.matches("[data-id]")){e.preventDefault();openDetail(e.target.dataset.id);}});
-  els.active.addEventListener("click",e=>{const k=e.target.dataset.clear;if(!k)return;if(k==="preview")els.preview.checked=false;else els[k].value="";apply();});
+  els.active.addEventListener("click",e=>{const type=e.target.dataset.clearType;if(type){const el=els.typeFilters.find(item=>item.value===type);if(el)el.checked=false;apply();return;}const k=e.target.dataset.clear;if(!k)return;if(k==="preview")els.preview.checked=false;else els[k].value="";apply();});
   $("#filter-toggle").addEventListener("click",()=>{const open=els.filters.classList.toggle("open");$("#filter-toggle").setAttribute("aria-expanded",String(open));});
   $("#dialog-close").addEventListener("click",()=>els.dialog.close());
   els.dialog.addEventListener("click",e=>{if(e.target===els.dialog)els.dialog.close();});
