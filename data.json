@@ -1,7 +1,8 @@
 [
   {
     "id": "1",
-    "label": "Mi_Lines",
+    "baseName": "Birds F2U",
+    "label": "Birds F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -28,7 +29,8 @@
   },
   {
     "id": "2",
-    "label": "valkriia",
+    "baseName": "TIGER SHRIMP F2U",
+    "label": "TIGER SHRIMP F2U",
     "credit": "valkriia",
     "creator": "valkriia",
     "permission": "All usage",
@@ -50,7 +52,8 @@
   },
   {
     "id": "3",
-    "label": "PastelPlagues",
+    "baseName": "Chibi Feline Base 9",
+    "label": "Chibi Feline Base 9",
     "credit": "PastelPlagues",
     "creator": "PastelPlagues",
     "permission": "Adoptables only",
@@ -71,7 +74,8 @@
   },
   {
     "id": "4",
-    "label": "Kindling",
+    "baseName": "F2U Floating Kitty Base",
+    "label": "F2U Floating Kitty Base",
     "credit": "Kindling",
     "creator": "Kindling",
     "permission": "Adoptables only",
@@ -91,7 +95,8 @@
   },
   {
     "id": "5",
-    "label": "Spoodlee",
+    "baseName": "Chibi Cat Base Pack",
+    "label": "Chibi Cat Base Pack",
     "credit": "Spoodlee",
     "creator": "Spoodlee",
     "permission": "Adoptables only",
@@ -113,7 +118,8 @@
   },
   {
     "id": "6",
-    "label": "Spoodlee",
+    "baseName": "Peeking Feline + Canine Icon Base",
+    "label": "Peeking Feline + Canine Icon Base",
     "credit": "Spoodlee",
     "creator": "Spoodlee",
     "permission": "Adoptables only",
@@ -140,7 +146,8 @@
   },
   {
     "id": "7",
-    "label": "clebsss",
+    "baseName": "F2U Chibi Base",
+    "label": "F2U Chibi Base",
     "credit": "clebsss",
     "creator": "clebsss",
     "permission": "All usage",
@@ -159,15 +166,16 @@
       "Canine",
       "Feline"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/26136717?1709616138",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/26136717.f2u-chibi-base",
+    "preview": "https://storage.ko-fi.com/cdn/useruploads/display/a166121d-3c29-4257-af2f-4f228d14182d_ezgif.com-animated-gif-maker.gif",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/c14c23fc54",
     "creatorLink": "https://toyhou.se/clebsss",
     "source": "Data"
   },
   {
     "id": "8",
-    "label": "KrowFields",
+    "baseName": "PREMIUM PLUS cat base!",
+    "label": "PREMIUM PLUS cat base!",
     "credit": "KrowFields",
     "creator": "KrowFields",
     "permission": "All usage",
@@ -188,7 +196,8 @@
   },
   {
     "id": "9",
-    "label": "xak",
+    "baseName": "F2U feral batch base",
+    "label": "F2U feral batch base",
     "credit": "xak",
     "creator": "xak",
     "permission": "Adoptables only",
@@ -219,7 +228,8 @@
   },
   {
     "id": "10",
-    "label": "nut",
+    "baseName": "Dragon base",
+    "label": "Dragon base",
     "credit": "nut",
     "creator": "nut",
     "permission": "All usage",
@@ -241,7 +251,8 @@
   },
   {
     "id": "11",
-    "label": "nut",
+    "baseName": "Robot base",
+    "label": "Robot base",
     "credit": "nut",
     "creator": "nut",
     "permission": "All usage",
@@ -264,7 +275,8 @@
   },
   {
     "id": "12",
-    "label": "nut",
+    "baseName": "Moth base",
+    "label": "Moth base",
     "credit": "nut",
     "creator": "nut",
     "permission": "All usage",
@@ -288,7 +300,8 @@
   },
   {
     "id": "13",
-    "label": "ratzenn",
+    "baseName": "F2U Base (many addons)",
+    "label": "F2U Base (many addons)",
     "credit": "ratzenn",
     "creator": "ratzenn",
     "permission": "All usage",
@@ -317,7 +330,8 @@
   },
   {
     "id": "14",
-    "label": "Kindling",
+    "baseName": "F2U Kitty Base",
+    "label": "F2U Kitty Base",
     "credit": "Kindling",
     "creator": "Kindling",
     "permission": "Adoptables only",
@@ -338,7 +352,8 @@
   },
   {
     "id": "15",
-    "label": "Kindling",
+    "baseName": "Jumping Cat Base - F2U",
+    "label": "Jumping Cat Base - F2U",
     "credit": "Kindling",
     "creator": "Kindling",
     "permission": "Adoptables only",
@@ -360,10 +375,11 @@
   },
   {
     "id": "16",
-    "label": "nuro",
+    "baseName": "I think this is a nuclear bomb f2u base",
+    "label": "I think this is a nuclear bomb f2u base",
     "credit": "nuro",
     "creator": "nuro",
-    "permission": "All usage* (no YCH)",
+    "permission": "All usage",
     "type": "Feral",
     "tags": [
       "chibi",
@@ -383,7 +399,8 @@
   },
   {
     "id": "17",
-    "label": "GarfieldPhone",
+    "baseName": "(F2U) Watch yo tone",
+    "label": "(F2U) Watch yo tone",
     "credit": "GarfieldPhone",
     "creator": "GarfieldPhone",
     "permission": "All usage",
@@ -406,7 +423,8 @@
   },
   {
     "id": "18",
-    "label": "GlowSquiid",
+    "baseName": "☆F2U Gatorpup Base☆",
+    "label": "☆F2U Gatorpup Base☆",
     "credit": "GlowSquiid",
     "creator": "GlowSquiid",
     "permission": "All usage",
@@ -433,37 +451,32 @@
   },
   {
     "id": "19",
-    "label": "LuckiiBee",
-    "credit": "LuckiiBee",
-    "creator": "LuckiiBee",
+    "baseName": "Male Humanoid Base",
+    "label": "Male Humanoid Base",
+    "credit": "ThatBlackFoxCanBark",
+    "creator": "ThatBlackFoxCanBark",
     "permission": "All usage",
-    "type": "Feral",
+    "type": "Humanoid",
     "tags": [
-      "feline",
-      "canine",
-      "deer",
-      "bovine",
-      "hoofed",
-      "snail",
-      "dragon",
-      "griffin",
-      "swine",
-      "shark dog",
+      "humanoid",
+      "male",
+      "animal",
+      "fur",
       "customizable"
     ],
     "categories": [
-      "Multi-species",
-      "Fantasy"
+      "Humanoid"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/25871067?1708258810",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/25871067.mini-species-basepack-f2u",
-    "creatorLink": "https://toyhou.se/LuckiiBee",
+    "preview": "https://storage.ko-fi.com/cdn/useruploads/display/3ebdb590-f0ba-4b80-9208-f569066512c3_img_8966.png",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/5eed7590cf",
+    "creatorLink": "https://toyhou.se/foxxie",
     "source": "Data"
   },
   {
     "id": "20",
-    "label": "Topikyu",
+    "baseName": "F2U male base 8",
+    "label": "F2U male base 8",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -484,7 +497,8 @@
   },
   {
     "id": "21",
-    "label": "Topikyu",
+    "baseName": "F2U male base 9",
+    "label": "F2U male base 9",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -505,7 +519,8 @@
   },
   {
     "id": "22",
-    "label": "Topikyu",
+    "baseName": "F2U male base 7",
+    "label": "F2U male base 7",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -526,7 +541,8 @@
   },
   {
     "id": "23",
-    "label": "Topikyu",
+    "baseName": "F2U femboy base 3",
+    "label": "F2U femboy base 3",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -548,7 +564,8 @@
   },
   {
     "id": "24",
-    "label": "Topikyu",
+    "baseName": "F2U male base 4",
+    "label": "F2U male base 4",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -569,7 +586,8 @@
   },
   {
     "id": "25",
-    "label": "Topikyu",
+    "baseName": "F2U male base 5",
+    "label": "F2U male base 5",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -590,7 +608,8 @@
   },
   {
     "id": "26",
-    "label": "Topikyu",
+    "baseName": "F2U Male base",
+    "label": "F2U Male base",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -611,7 +630,8 @@
   },
   {
     "id": "27",
-    "label": "Topikyu",
+    "baseName": "F2U femboy base 2",
+    "label": "F2U femboy base 2",
     "credit": "Topikyu",
     "creator": "Topikyu",
     "permission": "All usage",
@@ -633,7 +653,8 @@
   },
   {
     "id": "28",
-    "label": "ThatBlackFoxCanBark",
+    "baseName": "Humanoid Base",
+    "label": "Humanoid Base",
     "credit": "ThatBlackFoxCanBark",
     "creator": "ThatBlackFoxCanBark",
     "permission": "All usage",
@@ -651,12 +672,13 @@
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/images/37796756_eOKmLvHVolZCfTD.jpg",
     "site": "Deviantart",
     "link": "https://www.deviantart.com/stash/0frvz0k0bka",
-    "creatorLink": "https://toyhou.se/ThatBlackFoxCanBark",
+    "creatorLink": "https://toyhou.se/foxxie",
     "source": "Data"
   },
   {
     "id": "29",
-    "label": "hazyhund",
+    "baseName": "Mini Critters Base Pack",
+    "label": "Mini Critters Base Pack",
     "credit": "hazyhund",
     "creator": "hazyhund",
     "permission": "All usage",
@@ -688,7 +710,8 @@
   },
   {
     "id": "30",
-    "label": "hazyhund",
+    "baseName": "(FREE) Star Puppy Base",
+    "label": "(FREE) Star Puppy Base",
     "credit": "hazyhund",
     "creator": "hazyhund",
     "permission": "All usage",
@@ -712,7 +735,8 @@
   },
   {
     "id": "31",
-    "label": "Nightdragoncake",
+    "baseName": "Base Dump 1",
+    "label": "Base Dump 1",
     "credit": "Nightdragoncake",
     "creator": "Nightdragoncake",
     "permission": "All usage",
@@ -737,7 +761,8 @@
   },
   {
     "id": "32",
-    "label": "Nightdragoncake",
+    "baseName": "Base Dump 2",
+    "label": "Base Dump 2",
     "credit": "Nightdragoncake",
     "creator": "Nightdragoncake",
     "permission": "All usage",
@@ -759,7 +784,8 @@
   },
   {
     "id": "33",
-    "label": "Nightdragoncake",
+    "baseName": "Base Dump 3",
+    "label": "Base Dump 3",
     "credit": "Nightdragoncake",
     "creator": "Nightdragoncake",
     "permission": "All usage",
@@ -781,7 +807,8 @@
   },
   {
     "id": "34",
-    "label": "Monstaria",
+    "baseName": "Sea Bunny",
+    "label": "Sea Bunny",
     "credit": "Monstaria",
     "creator": "Monstaria",
     "permission": "All usage",
@@ -803,7 +830,8 @@
   },
   {
     "id": "35",
-    "label": "atmosphera",
+    "baseName": "F2U shark base",
+    "label": "F2U shark base",
     "credit": "atmosphera",
     "creator": "atmosphera",
     "permission": "Adoptables only",
@@ -825,7 +853,8 @@
   },
   {
     "id": "36",
-    "label": "DeadDan",
+    "baseName": "MLP Base",
+    "label": "MLP Base",
     "credit": "DeadDan",
     "creator": "DeadDan",
     "permission": "All usage",
@@ -841,14 +870,15 @@
       "Ungulate/Hooved"
     ],
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/images/80239962_eYLlznUhPDowfdz.png",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/26456818.f2u-free-bases#80239962",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/231bfe636f",
     "creatorLink": "https://toyhou.se/DeadDan",
     "source": "Data"
   },
   {
     "id": "37",
-    "label": "DeadDan",
+    "baseName": "Elk Base",
+    "label": "Elk Base",
     "credit": "DeadDan",
     "creator": "DeadDan",
     "permission": "All usage",
@@ -862,14 +892,15 @@
       "Ungulate/Hooved"
     ],
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/images/79953016_DlziMDvZAwLDADm.png",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/26456818.f2u-free-bases#79953016",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/231bfe636f",
     "creatorLink": "https://toyhou.se/DeadDan",
     "source": "Data"
   },
   {
     "id": "38",
-    "label": "DeadDan",
+    "baseName": "MLP Base",
+    "label": "MLP Base",
     "credit": "DeadDan",
     "creator": "DeadDan",
     "permission": "All usage",
@@ -885,14 +916,15 @@
       "Ungulate/Hooved"
     ],
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/images/79626926_IxdvZHPXZAg2F0m.png",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/26456818.f2u-free-bases/gallery#79626926",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/231bfe636f",
     "creatorLink": "https://toyhou.se/DeadDan",
     "source": "Data"
   },
   {
     "id": "39",
-    "label": "DeadDan",
+    "baseName": "Chibi Base",
+    "label": "Chibi Base",
     "credit": "DeadDan",
     "creator": "DeadDan",
     "permission": "All usage",
@@ -909,14 +941,15 @@
       "Other Species"
     ],
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/images/79626902_MdODXQqzbY14lHw.png",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/26456818.f2u-free-bases/gallery#79626902",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/231bfe636f",
     "creatorLink": "https://toyhou.se/DeadDan",
     "source": "Data"
   },
   {
     "id": "40",
-    "label": "DeadDan",
+    "baseName": "Anteater Base",
+    "label": "Anteater Base",
     "credit": "DeadDan",
     "creator": "DeadDan",
     "permission": "All usage",
@@ -928,14 +961,15 @@
       "Other Species"
     ],
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/images/80573283_kjbwR2FQW6AcRD5.png",
-    "site": "Toyhouse",
-    "link": "https://toyhou.se/26456818.f2u-free-bases/gallery#80573283",
+    "site": "Ko-fi",
+    "link": "https://ko-fi.com/s/231bfe636f",
     "creatorLink": "https://toyhou.se/DeadDan",
     "source": "Data"
   },
   {
     "id": "41",
-    "label": "BooBear_223",
+    "baseName": "F2U Chibi Bat base",
+    "label": "F2U Chibi Bat base",
     "credit": "BooBear_223",
     "creator": "BooBear_223",
     "permission": "All usage",
@@ -955,7 +989,8 @@
   },
   {
     "id": "42",
-    "label": "musicpaintpaw123",
+    "baseName": "F2U worm off string",
+    "label": "F2U worm off string",
     "credit": "musicpaintpaw123",
     "creator": "musicpaintpaw123",
     "permission": "All usage",
@@ -982,7 +1017,8 @@
   },
   {
     "id": "43",
-    "label": "BooBear_223",
+    "baseName": "F2U Anthro Worm on String Base",
+    "label": "F2U Anthro Worm on String Base",
     "credit": "BooBear_223",
     "creator": "BooBear_223",
     "permission": "All usage",
@@ -1007,7 +1043,8 @@
   },
   {
     "id": "44",
-    "label": "musicpaintpaw123",
+    "baseName": "F2U worm off string",
+    "label": "F2U worm off string",
     "credit": "musicpaintpaw123",
     "creator": "musicpaintpaw123",
     "permission": "All usage",
@@ -1032,7 +1069,8 @@
   },
   {
     "id": "45",
-    "label": "wooloo",
+    "baseName": "[F2U] Worm on a String base",
+    "label": "[F2U] Worm on a String base",
     "credit": "wooloo",
     "creator": "wooloo",
     "permission": "All usage",
@@ -1056,7 +1094,8 @@
   },
   {
     "id": "46",
-    "label": "Lattstash",
+    "baseName": "Anthro Worm on a String Base",
+    "label": "Anthro Worm on a String Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1080,7 +1119,8 @@
   },
   {
     "id": "47",
-    "label": "Lattstash",
+    "baseName": "Baby Dragon Base",
+    "label": "Baby Dragon Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1100,7 +1140,8 @@
   },
   {
     "id": "48",
-    "label": "Lattstash",
+    "baseName": "F2U Anthro base",
+    "label": "F2U Anthro base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1123,7 +1164,8 @@
   },
   {
     "id": "49",
-    "label": "Lattstash",
+    "baseName": "F2U Anthro Base",
+    "label": "F2U Anthro Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1144,7 +1186,8 @@
   },
   {
     "id": "50",
-    "label": "Lattstash",
+    "baseName": "F2U Anthro Base",
+    "label": "F2U Anthro Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1169,7 +1212,8 @@
   },
   {
     "id": "51",
-    "label": "Lattstash",
+    "baseName": "F2U Anthro Base",
+    "label": "F2U Anthro Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1188,7 +1232,8 @@
   },
   {
     "id": "52",
-    "label": "Lattstash",
+    "baseName": "F2U Feral Base",
+    "label": "F2U Feral Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1209,7 +1254,8 @@
   },
   {
     "id": "53",
-    "label": "Lattstash",
+    "baseName": "F2U Feral Base",
+    "label": "F2U Feral Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1229,7 +1275,8 @@
   },
   {
     "id": "54",
-    "label": "Lattstash",
+    "baseName": "F2U Human Base",
+    "label": "F2U Human Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1254,7 +1301,8 @@
   },
   {
     "id": "55",
-    "label": "Lattstash",
+    "baseName": "F2U Strutting pony base",
+    "label": "F2U Strutting pony base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1281,7 +1329,8 @@
   },
   {
     "id": "56",
-    "label": "Lattstash",
+    "baseName": "F2U walking pony base",
+    "label": "F2U walking pony base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1308,7 +1357,8 @@
   },
   {
     "id": "57",
-    "label": "Lattstash",
+    "baseName": "Pig Base",
+    "label": "Pig Base",
     "credit": "Lattstash",
     "creator": "Lattstash",
     "permission": "Personal only",
@@ -1329,7 +1379,8 @@
   },
   {
     "id": "58",
-    "label": "Mi_Lines",
+    "baseName": "Toy Section F2U",
+    "label": "Toy Section F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1374,13 +1425,14 @@
     ],
     "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/13456561?1636488951",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/13456561.toy-section-f2u/gallery#41739855",
+    "link": "https://toyhou.se/13456561.toy-section-f2u",
     "creatorLink": "https://toyhou.se/Mi_Lines",
     "source": "Data"
   },
   {
     "id": "59",
-    "label": "Mi_Lines",
+    "baseName": "Dragons F2U",
+    "label": "Dragons F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1404,7 +1456,8 @@
   },
   {
     "id": "60",
-    "label": "Mi_Lines",
+    "baseName": "Farm F2U",
+    "label": "Farm F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1434,7 +1487,8 @@
   },
   {
     "id": "61",
-    "label": "Mi_Lines",
+    "baseName": "Ferret/Otter F2U",
+    "label": "Ferret/Otter F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1457,11 +1511,12 @@
   },
   {
     "id": "62",
-    "label": "Mi_Lines",
+    "baseName": "Frog Batch F2U",
+    "label": "Frog Batch F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "frog",
@@ -1478,7 +1533,8 @@
   },
   {
     "id": "63",
-    "label": "Mi_Lines",
+    "baseName": "Griffins F2U",
+    "label": "Griffins F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1503,11 +1559,12 @@
   },
   {
     "id": "64",
-    "label": "Mi_Lines",
+    "baseName": "Holidays! F2U",
+    "label": "Holidays! F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Feral / Anthro / Humanoid",
+    "type": "Feral, Anthro, Humanoid",
     "tags": [
       "chibi",
       "holiday",
@@ -1531,7 +1588,8 @@
   },
   {
     "id": "65",
-    "label": "Mi_Lines",
+    "baseName": "Hyena F2U",
+    "label": "Hyena F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1556,11 +1614,12 @@
   },
   {
     "id": "66",
-    "label": "Mi_Lines",
+    "baseName": "Snakes F2U",
+    "label": "Snakes F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "snake",
@@ -1584,11 +1643,12 @@
   },
   {
     "id": "67",
-    "label": "Mi_Lines",
+    "baseName": "Wild Canines F2U",
+    "label": "Wild Canines F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "canine",
@@ -1610,7 +1670,8 @@
   },
   {
     "id": "68",
-    "label": "Mi_Lines",
+    "baseName": "TV Head F2U",
+    "label": "TV Head F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1637,11 +1698,12 @@
   },
   {
     "id": "69",
-    "label": "Mi_Lines",
+    "baseName": "Stand with Palestine! F2U",
+    "label": "Stand with Palestine! F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Humanoid",
+    "type": "Anthro, Humanoid",
     "tags": [
       "chibi",
       "Palestine",
@@ -1669,7 +1731,8 @@
   },
   {
     "id": "70",
-    "label": "Mi_Lines",
+    "baseName": "Aliens/Monsters F2U",
+    "label": "Aliens/Monsters F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1698,7 +1761,8 @@
   },
   {
     "id": "71",
-    "label": "Mi_Lines",
+    "baseName": "Armored Little Guys F2U",
+    "label": "Armored Little Guys F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1722,7 +1786,8 @@
   },
   {
     "id": "72",
-    "label": "Mi_Lines",
+    "baseName": "Axolotl F2U",
+    "label": "Axolotl F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1745,7 +1810,8 @@
   },
   {
     "id": "73",
-    "label": "Mi_Lines",
+    "baseName": "Badger F2U",
+    "label": "Badger F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1767,7 +1833,8 @@
   },
   {
     "id": "74",
-    "label": "Mi_Lines",
+    "baseName": "Bat F2U",
+    "label": "Bat F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1788,11 +1855,12 @@
   },
   {
     "id": "75",
-    "label": "Mi_Lines",
+    "baseName": "Big Steppas F2U",
+    "label": "Big Steppas F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "bunny",
@@ -1815,7 +1883,8 @@
   },
   {
     "id": "76",
-    "label": "Mi_Lines",
+    "baseName": "Bluey! F2U",
+    "label": "Bluey! F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1840,7 +1909,8 @@
   },
   {
     "id": "77",
-    "label": "Mi_Lines",
+    "baseName": "Bugs F2U",
+    "label": "Bugs F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1864,11 +1934,12 @@
   },
   {
     "id": "78",
-    "label": "Mi_Lines",
+    "baseName": "Cat Batch F2U",
+    "label": "Cat Batch F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "feline",
@@ -1885,11 +1956,12 @@
   },
   {
     "id": "79",
-    "label": "Mi_Lines",
+    "baseName": "Cat/Bobtail Cat/Lynx F2U",
+    "label": "Cat/Bobtail Cat/Lynx F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "feline",
@@ -1909,7 +1981,8 @@
   },
   {
     "id": "80",
-    "label": "Mi_Lines",
+    "baseName": "Chubby Cat F2U",
+    "label": "Chubby Cat F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1930,7 +2003,8 @@
   },
   {
     "id": "81",
-    "label": "Mi_Lines",
+    "baseName": "Antlers & Horns F2U",
+    "label": "Antlers & Horns F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1958,7 +2032,8 @@
   },
   {
     "id": "82",
-    "label": "Mi_Lines",
+    "baseName": "Sorted Dinosaurs F2U",
+    "label": "Sorted Dinosaurs F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -1989,11 +2064,12 @@
   },
   {
     "id": "83",
-    "label": "Mi_Lines",
+    "baseName": "Dogs F2U",
+    "label": "Dogs F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "domestic dog",
@@ -2014,7 +2090,8 @@
   },
   {
     "id": "84",
-    "label": "NeverMown",
+    "baseName": "F2U Chibi Base",
+    "label": "F2U Chibi Base",
     "credit": "NeverMown",
     "creator": "NeverMown",
     "permission": "All usage",
@@ -2036,7 +2113,8 @@
   },
   {
     "id": "85",
-    "label": "Liozs",
+    "baseName": "Variety Base Pack",
+    "label": "Variety Base Pack",
     "credit": "Liozs",
     "creator": "Liozs",
     "permission": "All usage",
@@ -2083,7 +2161,8 @@
   },
   {
     "id": "86",
-    "label": "Liozs",
+    "baseName": "F2U BASE PACK",
+    "label": "F2U BASE PACK",
     "credit": "Liozs",
     "creator": "Liozs",
     "permission": "Adoptables only",
@@ -2139,7 +2218,8 @@
   },
   {
     "id": "87",
-    "label": "ve-rth",
+    "baseName": "derp wolfies F2U",
+    "label": "derp wolfies F2U",
     "credit": "ve-rth",
     "creator": "ve-rth",
     "permission": "All usage",
@@ -2161,7 +2241,8 @@
   },
   {
     "id": "88",
-    "label": "fluxtill",
+    "baseName": "Feral base",
+    "label": "Feral base",
     "credit": "fluxtill",
     "creator": "fluxtill",
     "permission": "Adoptables only",
@@ -2189,7 +2270,8 @@
   },
   {
     "id": "89",
-    "label": "kur0kamo",
+    "baseName": "(2022) Mega Dog F2U base",
+    "label": "(2022) Mega Dog F2U base",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2214,7 +2296,8 @@
   },
   {
     "id": "90",
-    "label": "kur0kamo",
+    "baseName": "(2021) Cat F2U base!",
+    "label": "(2021) Cat F2U base!",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2235,7 +2318,8 @@
   },
   {
     "id": "91",
-    "label": "kur0kamo",
+    "baseName": "(2019) Christmas F2U icons",
+    "label": "(2019) Christmas F2U icons",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2270,7 +2354,8 @@
   },
   {
     "id": "92",
-    "label": "kur0kamo",
+    "baseName": "(2021) Halloween Furry F2U base",
+    "label": "(2021) Halloween Furry F2U base",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2300,7 +2385,8 @@
   },
   {
     "id": "93",
-    "label": "kur0kamo",
+    "baseName": "(2022) Halloween Furry F2U base",
+    "label": "(2022) Halloween Furry F2U base",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2336,7 +2422,8 @@
   },
   {
     "id": "94",
-    "label": "kur0kamo",
+    "baseName": "(2022) F2U Kemono base",
+    "label": "(2022) F2U Kemono base",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2374,7 +2461,8 @@
   },
   {
     "id": "95",
-    "label": "kur0kamo",
+    "baseName": "(2023) F2U Pride month base",
+    "label": "(2023) F2U Pride month base",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2422,7 +2510,8 @@
   },
   {
     "id": "96",
-    "label": "kur0kamo",
+    "baseName": "(2024) Christmas Ornament F2U base",
+    "label": "(2024) Christmas Ornament F2U base",
     "credit": "kur0kamo",
     "creator": "kur0kamo",
     "permission": "All usage",
@@ -2470,7 +2559,8 @@
   },
   {
     "id": "97",
-    "label": "StarSleepy",
+    "baseName": "BASE F2U",
+    "label": "BASE F2U",
     "credit": "StarSleepy",
     "creator": "StarSleepy",
     "permission": "All usage",
@@ -2491,7 +2581,8 @@
   },
   {
     "id": "98",
-    "label": "Piggi",
+    "baseName": "Sweet Pup Icon Base",
+    "label": "Sweet Pup Icon Base",
     "credit": "Piggi",
     "creator": "Piggi",
     "permission": "All usage",
@@ -2513,7 +2604,8 @@
   },
   {
     "id": "99",
-    "label": "Piggi",
+    "baseName": "F2U Puppy Sit Base",
+    "label": "F2U Puppy Sit Base",
     "credit": "Piggi",
     "creator": "Piggi",
     "permission": "All usage",
@@ -2535,7 +2627,8 @@
   },
   {
     "id": "100",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Beedrill Base [F2U]",
+    "label": "Pokemon Beedrill Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2557,7 +2650,8 @@
   },
   {
     "id": "101",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Eevee Base [F2U]",
+    "label": "Pokemon Eevee Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2580,7 +2674,8 @@
   },
   {
     "id": "102",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Espeon Base [F2U]",
+    "label": "Pokemon Espeon Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2602,7 +2697,8 @@
   },
   {
     "id": "103",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Flareon Base [F2U]",
+    "label": "Pokemon Flareon Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2625,7 +2721,8 @@
   },
   {
     "id": "104",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Jolteon Base [F2U]",
+    "label": "Pokemon Jolteon Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2647,7 +2744,8 @@
   },
   {
     "id": "105",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Mimikyu Base [F2U]",
+    "label": "Pokemon Mimikyu Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2667,7 +2765,8 @@
   },
   {
     "id": "106",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Poke Ball Base [F2U]",
+    "label": "Pokemon Poke Ball Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2689,7 +2788,8 @@
   },
   {
     "id": "107",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Lapras Base [F2U]",
+    "label": "Pokemon Lapras Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2702,7 +2802,7 @@
       "pleiosaur"
     ],
     "categories": [
-      "Aqautic",
+      "Aquatic",
       "Reptile"
     ],
     "preview": "https://storage.ko-fi.com/cdn/useruploads/display/00dd1545-5729-4f9f-b59e-b8ac0ec2becc_standard.png",
@@ -2713,7 +2813,8 @@
   },
   {
     "id": "108",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Kakuna Base [F2U]",
+    "label": "Pokemon Kakuna Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2735,7 +2836,8 @@
   },
   {
     "id": "109",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Weedle Base [F2U]",
+    "label": "Pokemon Weedle Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2757,7 +2859,8 @@
   },
   {
     "id": "110",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Umbreon Base [F2U]",
+    "label": "Pokemon Umbreon Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2780,7 +2883,8 @@
   },
   {
     "id": "111",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Vaporeon Base [F2U]",
+    "label": "Pokemon Vaporeon Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2804,7 +2908,8 @@
   },
   {
     "id": "112",
-    "label": "FatedMagic",
+    "baseName": "Pokemon Sylveon Base [F2U]",
+    "label": "Pokemon Sylveon Base [F2U]",
     "credit": "FatedMagic",
     "creator": "FatedMagic",
     "permission": "All usage",
@@ -2827,7 +2932,8 @@
   },
   {
     "id": "113",
-    "label": "Dragongirl222",
+    "baseName": "Werewolf line art",
+    "label": "Werewolf line art",
     "credit": "Dragongirl222",
     "creator": "Dragongirl222",
     "permission": "Adoptables only",
@@ -2848,11 +2954,12 @@
   },
   {
     "id": "114",
-    "label": "_anchorblue",
+    "baseName": "Goober Base Pack",
+    "label": "Goober Base Pack",
     "credit": "_anchorblue",
     "creator": "_anchorblue",
     "permission": "All usage",
-    "type": "Anthro / Humanoid",
+    "type": "Anthro, Humanoid",
     "tags": [
       "chibi",
       "humanoid",
@@ -2882,7 +2989,8 @@
   },
   {
     "id": "115",
-    "label": "_anchorblue",
+    "baseName": "F2U ANTHRO WOLF BASE",
+    "label": "F2U ANTHRO WOLF BASE",
     "credit": "_anchorblue",
     "creator": "_anchorblue",
     "permission": "All usage",
@@ -2905,7 +3013,8 @@
   },
   {
     "id": "116",
-    "label": "_anchorblue",
+    "baseName": "F2U TOONY CAT/DOG BASE!",
+    "label": "F2U TOONY CAT/DOG BASE!",
     "credit": "_anchorblue",
     "creator": "_anchorblue",
     "permission": "All usage",
@@ -2933,7 +3042,8 @@
   },
   {
     "id": "117",
-    "label": "FrostyOsprey",
+    "baseName": "FTU WOF bases",
+    "label": "FTU WOF bases",
     "credit": "FrostyOsprey",
     "creator": "FrostyOsprey",
     "permission": "All usage",
@@ -2953,7 +3063,8 @@
   },
   {
     "id": "118",
-    "label": "Mi_Lines",
+    "baseName": "Sorted Sea Creatures F2U",
+    "label": "Sorted Sea Creatures F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -2982,7 +3093,8 @@
   },
   {
     "id": "119",
-    "label": "Mi_Lines",
+    "baseName": "Big Cats F2U",
+    "label": "Big Cats F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -3005,7 +3117,8 @@
   },
   {
     "id": "120",
-    "label": "Mi_Lines",
+    "baseName": "Mice and More F2U",
+    "label": "Mice and More F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -3031,11 +3144,12 @@
   },
   {
     "id": "121",
-    "label": "Mi_Lines",
+    "baseName": "Mini Pride Pack F2U",
+    "label": "Mini Pride Pack F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Feral / Anthro / Humanoid",
+    "type": "Feral, Anthro, Humanoid",
     "tags": [
       "chibi",
       "pride",
@@ -3065,7 +3179,8 @@
   },
   {
     "id": "122",
-    "label": "Mi_Lines",
+    "baseName": "Monkey F2U",
+    "label": "Monkey F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -3088,7 +3203,8 @@
   },
   {
     "id": "123",
-    "label": "Mi_Lines",
+    "baseName": "Platypus F2U",
+    "label": "Platypus F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -3108,7 +3224,8 @@
   },
   {
     "id": "124",
-    "label": "Mi_Lines",
+    "baseName": "Ponies F2U",
+    "label": "Ponies F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -3137,11 +3254,12 @@
   },
   {
     "id": "125",
-    "label": "Mi_Lines",
+    "baseName": "Random Pokemon F2U",
+    "label": "Random Pokemon F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "pokemon",
@@ -3200,7 +3318,8 @@
   },
   {
     "id": "126",
-    "label": "Mi_Lines",
+    "baseName": "Red Panda/Raccoon F2U",
+    "label": "Red Panda/Raccoon F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -3222,7 +3341,8 @@
   },
   {
     "id": "127",
-    "label": "Roachramen",
+    "baseName": "F2U smol base",
+    "label": "F2U smol base",
     "credit": "Roachramen",
     "creator": "Roachramen",
     "permission": "All usage",
@@ -3243,7 +3363,8 @@
   },
   {
     "id": "128",
-    "label": "ArloArcade",
+    "baseName": "F2U Comfort base V2",
+    "label": "F2U Comfort base V2",
     "credit": "ArloArcade",
     "creator": "ArloArcade",
     "permission": "All usage",
@@ -3266,7 +3387,8 @@
   },
   {
     "id": "129",
-    "label": "ArloArcade",
+    "baseName": "F2U comfort item base",
+    "label": "F2U comfort item base",
     "credit": "ArloArcade",
     "creator": "ArloArcade",
     "permission": "Adoptables only",
@@ -3289,7 +3411,8 @@
   },
   {
     "id": "130",
-    "label": "ArloArcade",
+    "baseName": "F2U LIL GUY BASE",
+    "label": "F2U LIL GUY BASE",
     "credit": "ArloArcade",
     "creator": "ArloArcade",
     "permission": "All usage",
@@ -3309,7 +3432,8 @@
   },
   {
     "id": "131",
-    "label": "ArloArcade",
+    "baseName": "F2U PLUSH BASE",
+    "label": "F2U PLUSH BASE",
     "credit": "ArloArcade",
     "creator": "ArloArcade",
     "permission": "All usage",
@@ -3332,7 +3456,8 @@
   },
   {
     "id": "132",
-    "label": "CoolKoinu",
+    "baseName": "Protogen Reference base",
+    "label": "Protogen Reference base",
     "credit": "CoolKoinu",
     "creator": "CoolKoinu",
     "permission": "All usage",
@@ -3355,7 +3480,8 @@
   },
   {
     "id": "133",
-    "label": "CoolKoinu",
+    "baseName": "Protogen Pride base (V1)",
+    "label": "Protogen Pride base (V1)",
     "credit": "CoolKoinu",
     "creator": "CoolKoinu",
     "permission": "All usage",
@@ -3382,7 +3508,8 @@
   },
   {
     "id": "134",
-    "label": "CoolKoinu",
+    "baseName": "Protogen Pride base (V2)",
+    "label": "Protogen Pride base (V2)",
     "credit": "CoolKoinu",
     "creator": "CoolKoinu",
     "permission": "All usage",
@@ -3409,7 +3536,8 @@
   },
   {
     "id": "135",
-    "label": "CoolKoinu",
+    "baseName": "Protogen 'Angy' Base",
+    "label": "Protogen 'Angy' Base",
     "credit": "CoolKoinu",
     "creator": "CoolKoinu",
     "permission": "All usage",
@@ -3432,7 +3560,8 @@
   },
   {
     "id": "136",
-    "label": "ImStephany",
+    "baseName": "F2U BASE ANTHRO DRAGON",
+    "label": "F2U BASE ANTHRO DRAGON",
     "credit": "ImStephany",
     "creator": "ImStephany",
     "permission": "All usage",
@@ -3453,7 +3582,8 @@
   },
   {
     "id": "137",
-    "label": "AmberxSin",
+    "baseName": "Male Anthro Dragon Base",
+    "label": "Male Anthro Dragon Base",
     "credit": "AmberxSin",
     "creator": "AmberxSin",
     "permission": "Adoptables only",
@@ -3474,7 +3604,8 @@
   },
   {
     "id": "138",
-    "label": "Essence_Of_Rapture",
+    "baseName": "Eastern Dragon Base",
+    "label": "Eastern Dragon Base",
     "credit": "Essence_Of_Rapture",
     "creator": "Essence_Of_Rapture",
     "permission": "Adoptables only",
@@ -3495,7 +3626,8 @@
   },
   {
     "id": "139",
-    "label": "contrabeast",
+    "baseName": "F2U Assorted Anthro Bases",
+    "label": "F2U Assorted Anthro Bases",
     "credit": "contrabeast",
     "creator": "contrabeast",
     "permission": "Adoptables only",
@@ -3528,7 +3660,8 @@
   },
   {
     "id": "140",
-    "label": "Nethermation",
+    "baseName": "Dragon Base",
+    "label": "Dragon Base",
     "credit": "Nethermation",
     "creator": "Nethermation",
     "permission": "All usage",
@@ -3549,7 +3682,8 @@
   },
   {
     "id": "141",
-    "label": "AzuLJ",
+    "baseName": "Dragon Adopt Base",
+    "label": "Dragon Adopt Base",
     "credit": "AzuLJ",
     "creator": "AzuLJ",
     "permission": "Adoptables only",
@@ -3569,7 +3703,8 @@
   },
   {
     "id": "142",
-    "label": "AzuLJ",
+    "baseName": "Gator/Croc Lineart",
+    "label": "Gator/Croc Lineart",
     "credit": "AzuLJ",
     "creator": "AzuLJ",
     "permission": "Adoptables only",
@@ -3591,7 +3726,8 @@
   },
   {
     "id": "143",
-    "label": "AzuLJ",
+    "baseName": "Dragon Adopt Base",
+    "label": "Dragon Adopt Base",
     "credit": "AzuLJ",
     "creator": "AzuLJ",
     "permission": "Adoptables only",
@@ -3610,7 +3746,8 @@
   },
   {
     "id": "144",
-    "label": "AzuLJ",
+    "baseName": "Chibi Adopt Base Bundle",
+    "label": "Chibi Adopt Base Bundle",
     "credit": "AzuLJ",
     "creator": "AzuLJ",
     "permission": "Adoptables only",
@@ -3630,11 +3767,12 @@
   },
   {
     "id": "145",
-    "label": "AzuLJ",
+    "baseName": "Werebat Lineart",
+    "label": "Werebat Lineart",
     "credit": "AzuLJ",
     "creator": "AzuLJ",
     "permission": "Adoptables only",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "werewolf",
       "werebat",
@@ -3651,7 +3789,8 @@
   },
   {
     "id": "146",
-    "label": "AzuLJ",
+    "baseName": "Orca Base",
+    "label": "Orca Base",
     "credit": "AzuLJ",
     "creator": "AzuLJ",
     "permission": "Adoptables only",
@@ -3674,7 +3813,8 @@
   },
   {
     "id": "147",
-    "label": "nmor",
+    "baseName": "Protogen F2U",
+    "label": "Protogen F2U",
     "credit": "nmor",
     "creator": "nmor",
     "permission": "Adoptables only",
@@ -3697,7 +3837,8 @@
   },
   {
     "id": "148",
-    "label": "nmor",
+    "baseName": "Protogen F2U - pt-gen2",
+    "label": "Protogen F2U - pt-gen2",
     "credit": "nmor",
     "creator": "nmor",
     "permission": "Adoptables only",
@@ -3720,7 +3861,8 @@
   },
   {
     "id": "149",
-    "label": "CrypticKoi",
+    "baseName": "F2U Base - Anthro Dilophosaurus",
+    "label": "F2U Base - Anthro Dilophosaurus",
     "credit": "CrypticKoi",
     "creator": "CrypticKoi",
     "permission": "Adoptables only",
@@ -3743,7 +3885,8 @@
   },
   {
     "id": "150",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U Dilophosaurus Base",
+    "label": "F2U Dilophosaurus Base",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3765,7 +3908,8 @@
   },
   {
     "id": "151",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U Iguanodon Base",
+    "label": "F2U Iguanodon Base",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3787,7 +3931,8 @@
   },
   {
     "id": "152",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U Spinosaurus Base",
+    "label": "F2U Spinosaurus Base",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3809,7 +3954,8 @@
   },
   {
     "id": "153",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U JP-Styled Raptor Base (+Feathered)",
+    "label": "F2U JP-Styled Raptor Base (+Feathered)",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3834,7 +3980,8 @@
   },
   {
     "id": "154",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U T. Rex Base (+Feathered)",
+    "label": "F2U T. Rex Base (+Feathered)",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3858,7 +4005,8 @@
   },
   {
     "id": "155",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U CARNOTAURUS BASE",
+    "label": "F2U CARNOTAURUS BASE",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3881,7 +4029,8 @@
   },
   {
     "id": "156",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U Triceratops Base",
+    "label": "F2U Triceratops Base",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3903,7 +4052,8 @@
   },
   {
     "id": "157",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U Mosasaurus Base",
+    "label": "F2U Mosasaurus Base",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3926,7 +4076,8 @@
   },
   {
     "id": "158",
-    "label": "CarnivorousRuse",
+    "baseName": "F2U PARASAUROLOPHUS BASE",
+    "label": "F2U PARASAUROLOPHUS BASE",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3949,7 +4100,8 @@
   },
   {
     "id": "159",
-    "label": "CarnivorousRuse",
+    "baseName": "RUSE'S F2U INDORAPTOR BASE",
+    "label": "RUSE'S F2U INDORAPTOR BASE",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3971,7 +4123,8 @@
   },
   {
     "id": "160",
-    "label": "CarnivorousRuse",
+    "baseName": "RUSE'S F2U QUETZA BASE",
+    "label": "RUSE'S F2U QUETZA BASE",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -3993,7 +4146,8 @@
   },
   {
     "id": "161",
-    "label": "CarnivorousRuse",
+    "baseName": "RUSE'S F2U ALLOSAURUS BASE",
+    "label": "RUSE'S F2U ALLOSAURUS BASE",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -4015,7 +4169,8 @@
   },
   {
     "id": "162",
-    "label": "CarnivorousRuse",
+    "baseName": "RUSE'S F2U KAPRO BASE",
+    "label": "RUSE'S F2U KAPRO BASE",
     "credit": "CarnivorousRuse",
     "creator": "CarnivorousRuse",
     "permission": "Adoptables only",
@@ -4038,7 +4193,8 @@
   },
   {
     "id": "163",
-    "label": "Kindling",
+    "baseName": "Tufts Base",
+    "label": "Tufts Base",
     "credit": "Kindling",
     "creator": "Kindling",
     "permission": "Adoptables only",
@@ -4059,7 +4215,8 @@
   },
   {
     "id": "164",
-    "label": "cosmidaze",
+    "baseName": "Anthro Worm on a String Base",
+    "label": "Anthro Worm on a String Base",
     "credit": "cosmidaze",
     "creator": "cosmidaze",
     "permission": "All usage",
@@ -4083,7 +4240,8 @@
   },
   {
     "id": "165",
-    "label": "toadster",
+    "baseName": "F2U Anthro Giraffe Base",
+    "label": "F2U Anthro Giraffe Base",
     "credit": "toadster",
     "creator": "toadster",
     "permission": "Adoptables only",
@@ -4104,11 +4262,12 @@
   },
   {
     "id": "166",
-    "label": "toadster",
+    "baseName": "F2U Chonky laying dragon base",
+    "label": "F2U Chonky laying dragon base",
     "credit": "toadster",
     "creator": "toadster",
     "permission": "Adoptables only",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "dragon"
     ],
@@ -4123,10 +4282,11 @@
   },
   {
     "id": "167",
-    "label": "nitemilia",
+    "baseName": "Box Friend (f2u little base)",
+    "label": "Box Friend (f2u little base)",
     "credit": "nitemilia",
     "creator": "nitemilia",
-    "permission": "All usage* (no YCH)",
+    "permission": "All usage",
     "type": "Feral",
     "tags": [
       "animated",
@@ -4149,7 +4309,8 @@
   },
   {
     "id": "168",
-    "label": "Starscreaming",
+    "baseName": "F2U Anthro American English Coonhound base",
+    "label": "F2U Anthro American English Coonhound base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4170,7 +4331,8 @@
   },
   {
     "id": "169",
-    "label": "Starscreaming",
+    "baseName": "F2U Anthro Dachshund base!!",
+    "label": "F2U Anthro Dachshund base!!",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4191,7 +4353,8 @@
   },
   {
     "id": "170",
-    "label": "Starscreaming",
+    "baseName": "F2U Fluffy Thresher Shark base!",
+    "label": "F2U Fluffy Thresher Shark base!",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4213,7 +4376,8 @@
   },
   {
     "id": "171",
-    "label": "Starscreaming",
+    "baseName": "F2U Anthro Nyan Cat base",
+    "label": "F2U Anthro Nyan Cat base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4234,7 +4398,8 @@
   },
   {
     "id": "172",
-    "label": "Starscreaming",
+    "baseName": "F2U Archen base",
+    "label": "F2U Archen base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4258,7 +4423,8 @@
   },
   {
     "id": "173",
-    "label": "Starscreaming",
+    "baseName": "F2U Archeops base",
+    "label": "F2U Archeops base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4282,10 +4448,11 @@
   },
   {
     "id": "174",
-    "label": "Starscreaming",
+    "baseName": "F2U Basic(f-15) seeker base",
+    "label": "F2U Basic(f-15) seeker base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
-    "permission": "All usage* (no YCH)",
+    "permission": "All usage",
     "type": "Humanoid",
     "tags": [
       "transformer",
@@ -4304,7 +4471,8 @@
   },
   {
     "id": "175",
-    "label": "Starscreaming",
+    "baseName": "F2U Chibi Seeker base",
+    "label": "F2U Chibi Seeker base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4327,7 +4495,8 @@
   },
   {
     "id": "176",
-    "label": "Starscreaming",
+    "baseName": "F2U Conjoined twin seeker base",
+    "label": "F2U Conjoined twin seeker base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4349,7 +4518,8 @@
   },
   {
     "id": "177",
-    "label": "Starscreaming",
+    "baseName": "F2U dolphin MerMech tf adopt",
+    "label": "F2U dolphin MerMech tf adopt",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4374,7 +4544,8 @@
   },
   {
     "id": "178",
-    "label": "Starscreaming",
+    "baseName": "F2U X-15 Base",
+    "label": "F2U X-15 Base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4396,7 +4567,8 @@
   },
   {
     "id": "179",
-    "label": "Starscreaming",
+    "baseName": "F2U Drinking bird base",
+    "label": "F2U Drinking bird base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4418,7 +4590,8 @@
   },
   {
     "id": "180",
-    "label": "Starscreaming",
+    "baseName": "F2U feral Ocean animal bases",
+    "label": "F2U feral Ocean animal bases",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4441,7 +4614,8 @@
   },
   {
     "id": "181",
-    "label": "Starscreaming",
+    "baseName": "F2U Chinese Dragon Base",
+    "label": "F2U Chinese Dragon Base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4463,7 +4637,8 @@
   },
   {
     "id": "182",
-    "label": "Starscreaming",
+    "baseName": "F2U Empurata Copter base",
+    "label": "F2U Empurata Copter base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4484,10 +4659,11 @@
   },
   {
     "id": "183",
-    "label": "Starscreaming",
+    "baseName": "F2U F-2 Seeker base",
+    "label": "F2U F-2 Seeker base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
-    "permission": "All usage* (no YCH)",
+    "permission": "All usage",
     "type": "Humanoid",
     "tags": [
       "transformer",
@@ -4505,7 +4681,8 @@
   },
   {
     "id": "184",
-    "label": "Starscreaming",
+    "baseName": "F2U Harpy vehicon base",
+    "label": "F2U Harpy vehicon base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4528,7 +4705,8 @@
   },
   {
     "id": "185",
-    "label": "Starscreaming",
+    "baseName": "F2U Manokit base",
+    "label": "F2U Manokit base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4548,7 +4726,8 @@
   },
   {
     "id": "186",
-    "label": "Starscreaming",
+    "baseName": "F2U Morvus base",
+    "label": "F2U Morvus base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4568,7 +4747,8 @@
   },
   {
     "id": "187",
-    "label": "Starscreaming",
+    "baseName": "F2U Praetorian tf base",
+    "label": "F2U Praetorian tf base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4592,7 +4772,8 @@
   },
   {
     "id": "188",
-    "label": "Starscreaming",
+    "baseName": "F2U Rock Pigeon base",
+    "label": "F2U Rock Pigeon base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4613,7 +4794,8 @@
   },
   {
     "id": "189",
-    "label": "Starscreaming",
+    "baseName": "F2U Sand cat base",
+    "label": "F2U Sand cat base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4633,11 +4815,12 @@
   },
   {
     "id": "190",
-    "label": "Starscreaming",
+    "baseName": "F2U Tf Lamassu base",
+    "label": "F2U Tf Lamassu base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "monster",
       "transformer",
@@ -4657,7 +4840,8 @@
   },
   {
     "id": "191",
-    "label": "Starscreaming",
+    "baseName": "F2U Tf Phage base",
+    "label": "F2U Tf Phage base",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4680,7 +4864,8 @@
   },
   {
     "id": "192",
-    "label": "Starscreaming",
+    "baseName": "F2U Turkey Vulture",
+    "label": "F2U Turkey Vulture",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4700,7 +4885,8 @@
   },
   {
     "id": "193",
-    "label": "Starscreaming",
+    "baseName": "Old F2U Pokemon Bases",
+    "label": "Old F2U Pokemon Bases",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4725,7 +4911,8 @@
   },
   {
     "id": "194",
-    "label": "Starscreaming",
+    "baseName": "Old FR Line art(F2U)",
+    "label": "Old FR Line art(F2U)",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4758,7 +4945,8 @@
   },
   {
     "id": "195",
-    "label": "Starscreaming",
+    "baseName": "P2U Minibots/Minicons base!",
+    "label": "P2U Minibots/Minicons base!",
     "credit": "Starscreaming",
     "creator": "Starscreaming",
     "permission": "All usage",
@@ -4779,224 +4967,254 @@
   },
   {
     "id": "196",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
+    "baseName": "Rain World F2U",
+    "label": "Rain World F2U",
+    "credit": "Mi_Lines",
+    "creator": "Mi_Lines",
     "permission": "All usage",
     "type": "Feral",
     "tags": [
-      "canine",
-      "dhole",
-      "fox",
-      "coyote"
+      "chibi",
+      "slugcat"
     ],
     "categories": [
-      "Canine"
+      "Other Species"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/92292318_GyoJpEwwD.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/35328616?1758592021",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30503372.dhole-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/35328616.rain-world-f2u",
+    "creatorLink": "https://toyhou.se/Mi_Lines",
     "source": "Data"
   },
   {
     "id": "197",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
+    "baseName": "Manta Ray F2U",
+    "label": "Manta Ray F2U",
+    "credit": "Mi_Lines",
+    "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Feral",
+    "type": "Anthro",
     "tags": [
-      "canine",
-      "wolf",
-      "coyote"
+      "chibi",
+      "manta ray"
     ],
     "categories": [
-      "Canine"
+      "Aquatic"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91216603_l2EK7OKo1.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/38826733?1776204694",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149357.wolf-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/38826733.manta-ray-f2u",
+    "creatorLink": "https://toyhou.se/Mi_Lines",
     "source": "Data"
   },
   {
     "id": "198",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
+    "baseName": "Minecraft F2U",
+    "label": "Minecraft F2U",
+    "credit": "Mi_Lines",
+    "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro",
+    "type": "Feral",
     "tags": [
-      "canine",
+      "chibi",
+      "minecraft",
+      "creeper",
       "wolf",
-      "coyote",
-      "werewolf"
+      "canine"
     ],
     "categories": [
-      "Canine"
+      "Canine",
+      "Other Species"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91217115_azs7HuLNl.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/31168609?1737125584",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149530.werewolf-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/31168609.minecraft-f2u",
+    "creatorLink": "https://toyhou.se/Mi_Lines",
     "source": "Data"
   },
   {
     "id": "199",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
+    "baseName": "Humans?! F2U",
+    "label": "Humans?! F2U",
+    "credit": "Mi_Lines",
+    "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Feral",
+    "type": "Humanoid",
     "tags": [
-      "canine",
-      "wolf",
-      "coyote",
-      "fox"
+      "chibi",
+      "humanoid"
     ],
     "categories": [
-      "Canine"
+      "Humanoid"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91216391_3XAKW6Ptm.png?1731459947",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/32003993?1741459202",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149284.wolf-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/32003993.humans-f2u",
+    "creatorLink": "https://toyhou.se/Mi_Lines",
     "source": "Data"
   },
   {
     "id": "200",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
+    "baseName": "Horses F2U",
+    "label": "Horses F2U",
+    "credit": "Mi_Lines",
+    "creator": "Mi_Lines",
     "permission": "All usage",
     "type": "Feral",
     "tags": [
-      "canine",
-      "wolf",
-      "coyote",
-      "fox"
+      "chibi",
+      "equine",
+      "horse"
     ],
     "categories": [
-      "Canine"
+      "Ungulate/Hooved"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91216291_fSy4eOq85.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/31237930?1737516446",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149251.canine-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/31237930.horses-f2u",
+    "creatorLink": "https://toyhou.se/Mi_Lines",
     "source": "Data"
   },
   {
     "id": "201",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
-    "permission": "All usage",
+    "baseName": "F2U Base (NEW SPECIES ADDED)",
+    "label": "F2U Base (NEW SPECIES ADDED)",
+    "credit": "TokkiiTown",
+    "creator": "TokkiiTown",
+    "permission": "Adoptables only",
     "type": "Anthro",
     "tags": [
+      "canine",
+      "domestic dog",
+      "wolf",
       "feline",
-      "tiger",
-      "big cat"
+      "domestic cat",
+      "unicorn",
+      "alicorn",
+      "pegasus",
+      "pony",
+      "equine",
+      "horse",
+      "dragon",
+      "monkey",
+      "bee",
+      "insect",
+      "kitsune",
+      "fox",
+      "bird",
+      "panda",
+      "bear",
+      "bat",
+      "raccoon",
+      "sheep",
+      "bunny",
+      "rabbit",
+      "stoat"
     ],
     "categories": [
-      "Feline"
+      "Canine",
+      "Fantasy",
+      "Feline",
+      "Multi-species",
+      "Other Species",
+      "Ungulate/Hooved"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91216941_C32UIKwEI.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/27774390?1718443139",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149478.tiger-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/27774390.f2u-base-new-species-added",
+    "creatorLink": "https://toyhou.se/TokkiiTown",
     "source": "Data"
   },
   {
     "id": "202",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
-    "permission": "All usage",
-    "type": "Feral",
+    "baseName": "F2U GATOR BASE",
+    "label": "F2U GATOR BASE",
+    "credit": "Sharkrampage",
+    "creator": "Sharkrampage",
+    "permission": "Adoptables only",
+    "type": "Anthro",
     "tags": [
-      "canine",
-      "wolf",
-      "coyote",
-      "fox"
+      "crocodile",
+      "alligator",
+      "gator",
+      "reptile"
     ],
     "categories": [
-      "Canine"
+      "Reptile"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91216221_wmCaQQ7s4.png?1731459971",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/23966199?1697733222",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149219.fox-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/23966199.f2u-gator-base",
+    "creatorLink": "https://toyhou.se/Sharkrampage",
     "source": "Data"
   },
   {
     "id": "203",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
+    "baseName": "F2U ANTHRO CAT",
+    "label": "F2U ANTHRO CAT",
+    "credit": "gh0stlyteaz",
+    "creator": "gh0stlyteaz",
     "permission": "All usage",
-    "type": "Feral",
+    "type": "Anthro",
     "tags": [
       "feline",
-      "domestic cat",
-      "big cat"
+      "domestic cat"
     ],
     "categories": [
       "Feline"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91216726_nNF0buScR.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/21645231?1684682871",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149405.cat-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/21645231.f2u-anthro-cat",
+    "creatorLink": "https://toyhou.se/gh0stlyteaz",
     "source": "Data"
   },
   {
     "id": "204",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
-    "permission": "All usage",
-    "type": "Feral",
+    "baseName": "luffy Dragon F2U Base",
+    "label": "luffy Dragon F2U Base",
+    "credit": "SweetNSaltyz",
+    "creator": "SweetNSaltyz",
+    "permission": "Adoptables only",
+    "type": "Anthro",
     "tags": [
-      "canine",
-      "wolf",
-      "coyote",
-      "fox"
+      "dragon",
+      "fluffy dragon"
     ],
     "categories": [
-      "Canine"
+      "Fantasy"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91217376_fCtHOTZTn.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/20937331?1680626768",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149622.wolf-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/20937331.fluffy-dragon-f2u-base",
+    "creatorLink": "https://toyhou.se/SweetNSaltyz",
     "source": "Data"
   },
   {
     "id": "205",
-    "label": "FoxFir",
-    "credit": "FoxFir",
-    "creator": "FoxFir",
-    "permission": "All usage",
-    "type": "Feral",
+    "baseName": "F2U Marten Base",
+    "label": "F2U Marten Base",
+    "credit": "SweetNSaltyz",
+    "creator": "SweetNSaltyz",
+    "permission": "Adoptables only",
+    "type": "Anthro",
     "tags": [
-      "canine",
-      "wolf",
-      "coyote",
-      "fox"
+      "pine marten",
+      "mustelid"
     ],
     "categories": [
-      "Canine"
+      "Other Species"
     ],
-    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/watermarks/91217442_yx7wYMP14.png",
+    "preview": "https://f2.toyhou.se/file/f2-toyhou-se/characters/20215183?1676573262",
     "site": "Toyhouse",
-    "link": "https://toyhou.se/30149640.wolf-base-f2u",
-    "creatorLink": "https://toyhou.se/KIEFERN",
+    "link": "https://toyhou.se/20215183.f2u-marten-base",
+    "creatorLink": "",
     "source": "Data"
   },
   {
     "id": "206",
-    "label": "Mochiskii",
+    "baseName": "F2U Bluey Base",
+    "label": "F2U Bluey Base",
     "credit": "Mochiskii",
     "creator": "Mochiskii",
     "permission": "Personal only",
@@ -5025,7 +5243,8 @@
   },
   {
     "id": "207",
-    "label": "AbsoluteCarnage",
+    "baseName": "Full Of Soup - base f2u",
+    "label": "Full Of Soup - base f2u",
     "credit": "AbsoluteCarnage",
     "creator": "AbsoluteCarnage",
     "permission": "Personal only",
@@ -5052,11 +5271,12 @@
   },
   {
     "id": "208",
-    "label": "Mi_Lines",
+    "baseName": "Species Bases F2U",
+    "label": "Species Bases F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "chimeeko",
@@ -5086,7 +5306,8 @@
   },
   {
     "id": "209",
-    "label": "Mi_Lines",
+    "baseName": "Sphynx Cat F2U",
+    "label": "Sphynx Cat F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -5108,7 +5329,8 @@
   },
   {
     "id": "210",
-    "label": "Mi_Lines",
+    "baseName": "Anteater F2U",
+    "label": "Anteater F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -5127,11 +5349,12 @@
   },
   {
     "id": "211",
-    "label": "Mi_Lines",
+    "baseName": "Roblox Creatures F2U",
+    "label": "Roblox Creatures F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "roblox",
       "sprinklekit",
@@ -5152,7 +5375,8 @@
   },
   {
     "id": "212",
-    "label": "Mi_Lines",
+    "baseName": "Savannah Cat & Kitten F2U",
+    "label": "Savannah Cat & Kitten F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
@@ -5174,11 +5398,12 @@
   },
   {
     "id": "213",
-    "label": "Mi_Lines",
+    "baseName": "Sorted Reptiles F2U",
+    "label": "Sorted Reptiles F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "reptile",
@@ -5206,11 +5431,12 @@
   },
   {
     "id": "214",
-    "label": "Mi_Lines",
+    "baseName": "Sea Invertebrates F2U",
+    "label": "Sea Invertebrates F2U",
     "credit": "Mi_Lines",
     "creator": "Mi_Lines",
     "permission": "All usage",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "chibi",
       "sea creature",
@@ -5237,7 +5463,8 @@
   },
   {
     "id": "215",
-    "label": "khaosvibes",
+    "baseName": "f2u eastern dragon base",
+    "label": "f2u eastern dragon base",
     "credit": "khaosvibes",
     "creator": "khaosvibes",
     "permission": "All usage",
@@ -5260,7 +5487,8 @@
   },
   {
     "id": "216",
-    "label": "khaosvibes",
+    "baseName": "f2u western dragon base",
+    "label": "f2u western dragon base",
     "credit": "khaosvibes",
     "creator": "khaosvibes",
     "permission": "All usage",
@@ -5281,7 +5509,8 @@
   },
   {
     "id": "217",
-    "label": "khaosvibes",
+    "baseName": "new chibi dragon base",
+    "label": "new chibi dragon base",
     "credit": "khaosvibes",
     "creator": "khaosvibes",
     "permission": "All usage",
@@ -5304,7 +5533,8 @@
   },
   {
     "id": "218",
-    "label": "khaosvibes",
+    "baseName": "f2u chibi dragon base",
+    "label": "f2u chibi dragon base",
     "credit": "khaosvibes",
     "creator": "khaosvibes",
     "permission": "All usage",
@@ -5326,7 +5556,8 @@
   },
   {
     "id": "219",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Complex Fury ref Base",
+    "label": "F2U Complex Fury ref Base",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5351,7 +5582,8 @@
   },
   {
     "id": "220",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Stoker class Bases (OLD)",
+    "label": "F2U Stoker class Bases (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5376,7 +5608,8 @@
   },
   {
     "id": "221",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Strike class Bases (OLD)",
+    "label": "F2U Strike class Bases (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5400,7 +5633,8 @@
   },
   {
     "id": "222",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U cheetah bases (OLD)",
+    "label": "F2U cheetah bases (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5424,7 +5658,8 @@
   },
   {
     "id": "223",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U maned wolf base (OLD)",
+    "label": "F2U maned wolf base (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5447,11 +5682,12 @@
   },
   {
     "id": "224",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U old bases",
+    "label": "F2U old bases",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "canine",
       "domestic dog",
@@ -5476,7 +5712,8 @@
   },
   {
     "id": "225",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Simple horse base",
+    "label": "F2U Simple horse base",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5511,7 +5748,8 @@
   },
   {
     "id": "226",
-    "label": "Ibisfloatingcat",
+    "baseName": "Paws and Claws F2U base",
+    "label": "Paws and Claws F2U base",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Personal only",
@@ -5533,7 +5771,8 @@
   },
   {
     "id": "227",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Cat Base (OLD)",
+    "label": "F2U Cat Base (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5554,7 +5793,8 @@
   },
   {
     "id": "228",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Centaur Base (OLD)",
+    "label": "F2U Centaur Base (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5576,7 +5816,8 @@
   },
   {
     "id": "229",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Chibi Base",
+    "label": "F2U Chibi Base",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5622,7 +5863,8 @@
   },
   {
     "id": "230",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U goat/ram Bases (OLD)",
+    "label": "F2U goat/ram Bases (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5645,7 +5887,8 @@
   },
   {
     "id": "231",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Headshot Base (OLD)",
+    "label": "F2U Headshot Base (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5679,7 +5922,8 @@
   },
   {
     "id": "232",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U horsie base (OLD)",
+    "label": "F2U horsie base (OLD)",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5704,7 +5948,8 @@
   },
   {
     "id": "233",
-    "label": "Ibisfloatingcat",
+    "baseName": "F2U Navi Bases",
+    "label": "F2U Navi Bases",
     "credit": "Ibisfloatingcat",
     "creator": "Ibisfloatingcat",
     "permission": "Adoptables only",
@@ -5731,7 +5976,8 @@
   },
   {
     "id": "234",
-    "label": "Sylvanticus",
+    "baseName": "Extinct Bases Bundle",
+    "label": "Extinct Bases Bundle",
     "credit": "Sylvanticus",
     "creator": "Sylvanticus",
     "permission": "Adoptables only",
@@ -5776,7 +6022,8 @@
   },
   {
     "id": "235",
-    "label": "aloetero",
+    "baseName": "F2U Dutch angel dragon base [OLD]",
+    "label": "F2U Dutch angel dragon base [OLD]",
     "credit": "aloetero",
     "creator": "aloetero",
     "permission": "Adoptables only",
@@ -5797,7 +6044,8 @@
   },
   {
     "id": "236",
-    "label": "aloetero",
+    "baseName": "F2U Dragon base",
+    "label": "F2U Dragon base",
     "credit": "aloetero",
     "creator": "aloetero",
     "permission": "Adoptables only",
@@ -5817,7 +6065,8 @@
   },
   {
     "id": "237",
-    "label": "aloetero",
+    "baseName": "F2U Mini creature bases",
+    "label": "F2U Mini creature bases",
     "credit": "aloetero",
     "creator": "aloetero",
     "permission": "Adoptables only",
@@ -5859,7 +6108,8 @@
   },
   {
     "id": "238",
-    "label": "slyszky",
+    "baseName": "Skulldog base",
+    "label": "Skulldog base",
     "credit": "slyszky",
     "creator": "slyszky",
     "permission": "All usage",
@@ -5882,7 +6132,8 @@
   },
   {
     "id": "239",
-    "label": "slyszky",
+    "baseName": "Anthro canine base",
+    "label": "Anthro canine base",
     "credit": "slyszky",
     "creator": "slyszky",
     "permission": "All usage",
@@ -5905,7 +6156,8 @@
   },
   {
     "id": "240",
-    "label": "slyszky",
+    "baseName": "canine base",
+    "label": "canine base",
     "credit": "slyszky",
     "creator": "slyszky",
     "permission": "All usage",
@@ -5927,7 +6179,8 @@
   },
   {
     "id": "241",
-    "label": "slyszky",
+    "baseName": "skulldog furry adopt base f2u",
+    "label": "skulldog furry adopt base f2u",
     "credit": "slyszky",
     "creator": "slyszky",
     "permission": "All usage",
@@ -5951,7 +6204,8 @@
   },
   {
     "id": "242",
-    "label": "Fluencia Artworks",
+    "baseName": "✨ Bipedal Owl Base ✨",
+    "label": "✨ Bipedal Owl Base ✨",
     "credit": "Fluencia Artworks",
     "creator": "Fluencia Artworks",
     "permission": "All usage",
@@ -5970,7 +6224,8 @@
   },
   {
     "id": "243",
-    "label": "JayJurassic",
+    "baseName": "F2U SCREAMING CANINE BASE (2018)",
+    "label": "F2U SCREAMING CANINE BASE (2018)",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -5995,11 +6250,12 @@
   },
   {
     "id": "244",
-    "label": "JayJurassic",
+    "baseName": "F2U ICON BASE (2019)",
+    "label": "F2U ICON BASE (2019)",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
-    "type": "Anthro / Feral",
+    "type": "Feral, Anthro",
     "tags": [
       "canine",
       "wolf",
@@ -6020,7 +6276,8 @@
   },
   {
     "id": "245",
-    "label": "JayJurassic",
+    "baseName": "F2U MONSTER DOG BASE",
+    "label": "F2U MONSTER DOG BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6047,7 +6304,8 @@
   },
   {
     "id": "246",
-    "label": "JayJurassic",
+    "baseName": "F2U BEEP BEEP BASE",
+    "label": "F2U BEEP BEEP BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6071,7 +6329,8 @@
   },
   {
     "id": "247",
-    "label": "JayJurassic",
+    "baseName": "F2U CANINE BASE",
+    "label": "F2U CANINE BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6093,7 +6352,8 @@
   },
   {
     "id": "248",
-    "label": "JayJurassic",
+    "baseName": "F2U SYMMETRICAL FELINE BASE",
+    "label": "F2U SYMMETRICAL FELINE BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6114,7 +6374,8 @@
   },
   {
     "id": "249",
-    "label": "JayJurassic",
+    "baseName": "F2U LION BASE",
+    "label": "F2U LION BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6135,7 +6396,8 @@
   },
   {
     "id": "250",
-    "label": "JayJurassic",
+    "baseName": "F2U FEMALE CANINE BASE",
+    "label": "F2U FEMALE CANINE BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6158,7 +6420,8 @@
   },
   {
     "id": "251",
-    "label": "JayJurassic",
+    "baseName": "F2U CHIBI FELINE BASE",
+    "label": "F2U CHIBI FELINE BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6180,7 +6443,8 @@
   },
   {
     "id": "252",
-    "label": "JayJurassic",
+    "baseName": "F2U SPINOSAURUS BASE",
+    "label": "F2U SPINOSAURUS BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6202,7 +6466,8 @@
   },
   {
     "id": "253",
-    "label": "JayJurassic",
+    "baseName": "F2U CHIBI CANINE BASE",
+    "label": "F2U CHIBI CANINE BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6225,7 +6490,8 @@
   },
   {
     "id": "254",
-    "label": "JayJurassic",
+    "baseName": "F2U SYMMETRICAL CANINE BASE",
+    "label": "F2U SYMMETRICAL CANINE BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6247,7 +6513,8 @@
   },
   {
     "id": "255",
-    "label": "JayJurassic",
+    "baseName": "F2U SHARK DOG BASE",
+    "label": "F2U SHARK DOG BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6268,7 +6535,8 @@
   },
   {
     "id": "256",
-    "label": "JayJurassic",
+    "baseName": "F2U CANINE REFERENCE SHEET BASE",
+    "label": "F2U CANINE REFERENCE SHEET BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6291,7 +6559,8 @@
   },
   {
     "id": "257",
-    "label": "JayJurassic",
+    "baseName": "F2U DRINKING SODA BASE",
+    "label": "F2U DRINKING SODA BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6314,7 +6583,8 @@
   },
   {
     "id": "258",
-    "label": "JayJurassic",
+    "baseName": "F2U DINODOG BASE",
+    "label": "F2U DINODOG BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6340,7 +6610,8 @@
   },
   {
     "id": "259",
-    "label": "JayJurassic",
+    "baseName": "F2U FELINE REFERENCE SHEET BASE",
+    "label": "F2U FELINE REFERENCE SHEET BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6362,7 +6633,8 @@
   },
   {
     "id": "260",
-    "label": "JayJurassic",
+    "baseName": "F2U CHIBI DRAGON BASE",
+    "label": "F2U CHIBI DRAGON BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6383,7 +6655,8 @@
   },
   {
     "id": "261",
-    "label": "JayJurassic",
+    "baseName": "F2U CHIBI TRICERATOPS BASE",
+    "label": "F2U CHIBI TRICERATOPS BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6406,7 +6679,8 @@
   },
   {
     "id": "262",
-    "label": "JayJurassic",
+    "baseName": "F2U ANTHRO INDOMINUS REX BASE",
+    "label": "F2U ANTHRO INDOMINUS REX BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6427,7 +6701,8 @@
   },
   {
     "id": "263",
-    "label": "JayJurassic",
+    "baseName": "F2U ANTHRO SKULLDOG BASE",
+    "label": "F2U ANTHRO SKULLDOG BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6450,7 +6725,8 @@
   },
   {
     "id": "264",
-    "label": "JayJurassic",
+    "baseName": "F2U FELINE ICON BASE",
+    "label": "F2U FELINE ICON BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6472,7 +6748,8 @@
   },
   {
     "id": "265",
-    "label": "JayJurassic",
+    "baseName": "F2U CANINE ICON BASE",
+    "label": "F2U CANINE ICON BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6495,7 +6772,8 @@
   },
   {
     "id": "266",
-    "label": "JayJurassic",
+    "baseName": "F2U CHIBI RAPTOR BASE",
+    "label": "F2U CHIBI RAPTOR BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6520,7 +6798,8 @@
   },
   {
     "id": "267",
-    "label": "JayJurassic",
+    "baseName": "F2U TOONY TRICERATOPS BASE",
+    "label": "F2U TOONY TRICERATOPS BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6542,7 +6821,8 @@
   },
   {
     "id": "268",
-    "label": "JayJurassic",
+    "baseName": "F2U FERAL CANINE REF SHEET BASE",
+    "label": "F2U FERAL CANINE REF SHEET BASE",
     "credit": "JayJurassic",
     "creator": "JayJurassic",
     "permission": "Adoptables only",
@@ -6565,7 +6845,8 @@
   },
   {
     "id": "269",
-    "label": "koghosts",
+    "baseName": "HARPY BASE",
+    "label": "HARPY BASE",
     "credit": "koghosts",
     "creator": "koghosts",
     "permission": "All usage",
@@ -6587,7 +6868,8 @@
   },
   {
     "id": "270",
-    "label": "koghosts",
+    "baseName": "canine base",
+    "label": "canine base",
     "credit": "koghosts",
     "creator": "koghosts",
     "permission": "All usage",
@@ -6610,7 +6892,8 @@
   },
   {
     "id": "271",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Mini wolf base",
+    "label": "Mini wolf base",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6633,7 +6916,8 @@
   },
   {
     "id": "272",
-    "label": "lycansprites",
+    "baseName": "[F2U] Cat Base",
+    "label": "[F2U] Cat Base",
     "credit": "lycansprites",
     "creator": "lycansprites",
     "permission": "Adoptables only",
@@ -6654,7 +6938,8 @@
   },
   {
     "id": "273",
-    "label": "clicki",
+    "baseName": "F2U Layered Chibi base (+ V2)",
+    "label": "F2U Layered Chibi base (+ V2)",
     "credit": "clicki",
     "creator": "clicki",
     "permission": "Personal only",
@@ -6675,7 +6960,8 @@
   },
   {
     "id": "274",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Wolf/cat base",
+    "label": "Wolf/cat base",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6702,7 +6988,8 @@
   },
   {
     "id": "275",
-    "label": "Rafaełła Ałfa",
+    "baseName": "mini cats base",
+    "label": "mini cats base",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6723,7 +7010,8 @@
   },
   {
     "id": "276",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Hopseal - 2",
+    "label": "Hopseal - 2",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6746,7 +7034,8 @@
   },
   {
     "id": "277",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Long Dragon base",
+    "label": "Long Dragon base",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6767,7 +7056,8 @@
   },
   {
     "id": "278",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Hopseal -Icon",
+    "label": "Hopseal -Icon",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6792,7 +7082,8 @@
   },
   {
     "id": "279",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Hopseal base",
+    "label": "Hopseal base",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6816,7 +7107,8 @@
   },
   {
     "id": "280",
-    "label": "Rafaełła Ałfa",
+    "baseName": "Wolf - Old / Ref",
+    "label": "Wolf - Old / Ref",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6840,7 +7132,8 @@
   },
   {
     "id": "281",
-    "label": "Rafaełła Ałfa",
+    "baseName": "human base",
+    "label": "human base",
     "credit": "Rafaełła Ałfa",
     "creator": "Rafaełła Ałfa",
     "permission": "All usage",
@@ -6861,7 +7154,8 @@
   },
   {
     "id": "282",
-    "label": "SejrIsCool",
+    "baseName": "F2u Cats Base",
+    "label": "F2u Cats Base",
     "credit": "SejrIsCool",
     "creator": "SejrIsCool",
     "permission": "Adoptables only",
@@ -6883,7 +7177,8 @@
   },
   {
     "id": "283",
-    "label": "SejrIsCool",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "SejrIsCool",
     "creator": "SejrIsCool",
     "permission": "Adoptables only",
@@ -6904,7 +7199,8 @@
   },
   {
     "id": "284",
-    "label": "SejrIsCool",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "SejrIsCool",
     "creator": "SejrIsCool",
     "permission": "Adoptables only",
@@ -6927,7 +7223,8 @@
   },
   {
     "id": "285",
-    "label": "SejrIsCool",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "SejrIsCool",
     "creator": "SejrIsCool",
     "permission": "Adoptables only",
@@ -6949,7 +7246,8 @@
   },
   {
     "id": "286",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -6974,7 +7272,8 @@
   },
   {
     "id": "287",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7002,11 +7301,12 @@
   },
   {
     "id": "288",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
-    "type": "Anthro / Humanoid",
+    "type": "Anthro, Humanoid",
     "tags": [
       "chibi",
       "feline",
@@ -7036,7 +7336,8 @@
   },
   {
     "id": "289",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7057,7 +7358,8 @@
   },
   {
     "id": "290",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7083,7 +7385,8 @@
   },
   {
     "id": "291",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7108,7 +7411,8 @@
   },
   {
     "id": "292",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7132,7 +7436,8 @@
   },
   {
     "id": "293",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7153,7 +7458,8 @@
   },
   {
     "id": "294",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7177,7 +7483,8 @@
   },
   {
     "id": "295",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7198,7 +7505,8 @@
   },
   {
     "id": "296",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7221,7 +7529,8 @@
   },
   {
     "id": "297",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7246,7 +7555,8 @@
   },
   {
     "id": "298",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7270,7 +7580,8 @@
   },
   {
     "id": "299",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7294,7 +7605,8 @@
   },
   {
     "id": "300",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7314,7 +7626,8 @@
   },
   {
     "id": "301",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7335,7 +7648,8 @@
   },
   {
     "id": "302",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7355,7 +7669,8 @@
   },
   {
     "id": "303",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7381,7 +7696,8 @@
   },
   {
     "id": "304",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7413,7 +7729,8 @@
   },
   {
     "id": "305",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7438,7 +7755,8 @@
   },
   {
     "id": "306",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7462,7 +7780,8 @@
   },
   {
     "id": "307",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7483,7 +7802,8 @@
   },
   {
     "id": "308",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7505,7 +7825,8 @@
   },
   {
     "id": "309",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7529,7 +7850,8 @@
   },
   {
     "id": "310",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7555,7 +7877,8 @@
   },
   {
     "id": "311",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7581,7 +7904,8 @@
   },
   {
     "id": "312",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
@@ -7609,11 +7933,12 @@
   },
   {
     "id": "313",
-    "label": "Cosmind",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Cosmind",
     "creator": "Cosmind",
     "permission": "Personal only",
-    "type": "Feral / Anthro / Humanoid",
+    "type": "Feral, Anthro, Humanoid",
     "tags": [
       "chibi",
       "humanoid",
@@ -7652,7 +7977,8 @@
   },
   {
     "id": "314",
-    "label": "Weird_paw",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Weird_paw",
     "creator": "Weird_paw",
     "permission": "All usage",
@@ -7684,7 +8010,8 @@
   },
   {
     "id": "315",
-    "label": "Weird_paw",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Weird_paw",
     "creator": "Weird_paw",
     "permission": "All usage",
@@ -7704,7 +8031,8 @@
   },
   {
     "id": "316",
-    "label": "Weird_paw",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Weird_paw",
     "creator": "Weird_paw",
     "permission": "All usage",
@@ -7730,7 +8058,8 @@
   },
   {
     "id": "317",
-    "label": "BITEWOUND",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BITEWOUND",
     "creator": "BITEWOUND",
     "permission": "All usage",
@@ -7752,7 +8081,8 @@
   },
   {
     "id": "318",
-    "label": "BITEWOUND",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BITEWOUND",
     "creator": "BITEWOUND",
     "permission": "All usage",
@@ -7773,7 +8103,8 @@
   },
   {
     "id": "319",
-    "label": "wolfboy",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "wolfboy",
     "creator": "wolfboy",
     "permission": "All usage",
@@ -7795,7 +8126,8 @@
   },
   {
     "id": "320",
-    "label": "Havenhideaway",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Havenhideaway",
     "creator": "Havenhideaway",
     "permission": "All usage",
@@ -7821,7 +8153,8 @@
   },
   {
     "id": "321",
-    "label": "slyszky",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "slyszky",
     "creator": "slyszky",
     "permission": "All usage",
@@ -7841,7 +8174,8 @@
   },
   {
     "id": "322",
-    "label": "aloetero",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "aloetero",
     "creator": "aloetero",
     "permission": "All usage",
@@ -7864,7 +8198,8 @@
   },
   {
     "id": "323",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -7885,7 +8220,8 @@
   },
   {
     "id": "324",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -7906,7 +8242,8 @@
   },
   {
     "id": "325",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -7927,7 +8264,8 @@
   },
   {
     "id": "326",
-    "label": "coughingfish",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "coughingfish",
     "creator": "coughingfish",
     "permission": "Adoptables only",
@@ -7969,7 +8307,8 @@
   },
   {
     "id": "327",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -7993,7 +8332,8 @@
   },
   {
     "id": "328",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8017,7 +8357,8 @@
   },
   {
     "id": "329",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8036,7 +8377,8 @@
   },
   {
     "id": "330",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8058,7 +8400,8 @@
   },
   {
     "id": "331",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8079,7 +8422,8 @@
   },
   {
     "id": "332",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8100,7 +8444,8 @@
   },
   {
     "id": "333",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8121,7 +8466,8 @@
   },
   {
     "id": "334",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8143,7 +8489,8 @@
   },
   {
     "id": "335",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8164,7 +8511,8 @@
   },
   {
     "id": "336",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8184,7 +8532,8 @@
   },
   {
     "id": "337",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8205,7 +8554,8 @@
   },
   {
     "id": "338",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8224,7 +8574,8 @@
   },
   {
     "id": "339",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8245,7 +8596,8 @@
   },
   {
     "id": "340",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8265,7 +8617,8 @@
   },
   {
     "id": "341",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8286,7 +8639,8 @@
   },
   {
     "id": "342",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8306,7 +8660,8 @@
   },
   {
     "id": "343",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8327,7 +8682,8 @@
   },
   {
     "id": "344",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8347,7 +8703,8 @@
   },
   {
     "id": "345",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8366,7 +8723,8 @@
   },
   {
     "id": "346",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8387,7 +8745,8 @@
   },
   {
     "id": "347",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8406,7 +8765,8 @@
   },
   {
     "id": "348",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8425,7 +8785,8 @@
   },
   {
     "id": "349",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8446,7 +8807,8 @@
   },
   {
     "id": "350",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8467,7 +8829,8 @@
   },
   {
     "id": "351",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8488,7 +8851,8 @@
   },
   {
     "id": "352",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8508,7 +8872,8 @@
   },
   {
     "id": "353",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8529,7 +8894,8 @@
   },
   {
     "id": "354",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8548,7 +8914,8 @@
   },
   {
     "id": "355",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8567,7 +8934,8 @@
   },
   {
     "id": "356",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8586,7 +8954,8 @@
   },
   {
     "id": "357",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8610,7 +8979,8 @@
   },
   {
     "id": "358",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8630,7 +9000,8 @@
   },
   {
     "id": "359",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8651,7 +9022,8 @@
   },
   {
     "id": "360",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8672,7 +9044,8 @@
   },
   {
     "id": "361",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8692,7 +9065,8 @@
   },
   {
     "id": "362",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8712,7 +9086,8 @@
   },
   {
     "id": "363",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8732,7 +9107,8 @@
   },
   {
     "id": "364",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8753,7 +9129,8 @@
   },
   {
     "id": "365",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8774,7 +9151,8 @@
   },
   {
     "id": "366",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8794,7 +9172,8 @@
   },
   {
     "id": "367",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8815,7 +9194,8 @@
   },
   {
     "id": "368",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8835,7 +9215,8 @@
   },
   {
     "id": "369",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8856,7 +9237,8 @@
   },
   {
     "id": "370",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8879,7 +9261,8 @@
   },
   {
     "id": "371",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8902,7 +9285,8 @@
   },
   {
     "id": "372",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8924,7 +9308,8 @@
   },
   {
     "id": "373",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8945,7 +9330,8 @@
   },
   {
     "id": "374",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8966,7 +9352,8 @@
   },
   {
     "id": "375",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -8985,7 +9372,8 @@
   },
   {
     "id": "376",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9005,7 +9393,8 @@
   },
   {
     "id": "377",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9026,7 +9415,8 @@
   },
   {
     "id": "378",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9045,7 +9435,8 @@
   },
   {
     "id": "379",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9065,7 +9456,8 @@
   },
   {
     "id": "380",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9086,7 +9478,8 @@
   },
   {
     "id": "381",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9105,7 +9498,8 @@
   },
   {
     "id": "382",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9125,7 +9519,8 @@
   },
   {
     "id": "383",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9145,7 +9540,8 @@
   },
   {
     "id": "384",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9164,7 +9560,8 @@
   },
   {
     "id": "385",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9187,7 +9584,8 @@
   },
   {
     "id": "386",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9208,7 +9606,8 @@
   },
   {
     "id": "387",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9230,7 +9629,8 @@
   },
   {
     "id": "388",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9251,7 +9651,8 @@
   },
   {
     "id": "389",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9271,7 +9672,8 @@
   },
   {
     "id": "390",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9291,7 +9693,8 @@
   },
   {
     "id": "391",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9311,7 +9714,8 @@
   },
   {
     "id": "392",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9331,7 +9735,8 @@
   },
   {
     "id": "393",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9352,7 +9757,8 @@
   },
   {
     "id": "394",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9372,7 +9778,8 @@
   },
   {
     "id": "395",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9392,7 +9799,8 @@
   },
   {
     "id": "396",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9411,7 +9819,8 @@
   },
   {
     "id": "397",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9430,7 +9839,8 @@
   },
   {
     "id": "398",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9453,7 +9863,8 @@
   },
   {
     "id": "399",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9472,7 +9883,8 @@
   },
   {
     "id": "400",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9491,7 +9903,8 @@
   },
   {
     "id": "401",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9512,7 +9925,8 @@
   },
   {
     "id": "402",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9532,7 +9946,8 @@
   },
   {
     "id": "403",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9551,7 +9966,8 @@
   },
   {
     "id": "404",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9570,7 +9986,8 @@
   },
   {
     "id": "405",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9590,7 +10007,8 @@
   },
   {
     "id": "406",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9610,7 +10028,8 @@
   },
   {
     "id": "407",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9632,7 +10051,8 @@
   },
   {
     "id": "408",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9655,7 +10075,8 @@
   },
   {
     "id": "409",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9675,7 +10096,8 @@
   },
   {
     "id": "410",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9695,7 +10117,8 @@
   },
   {
     "id": "411",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9717,7 +10140,8 @@
   },
   {
     "id": "412",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9738,7 +10162,8 @@
   },
   {
     "id": "413",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9762,7 +10187,8 @@
   },
   {
     "id": "414",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9783,7 +10209,8 @@
   },
   {
     "id": "415",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9804,7 +10231,8 @@
   },
   {
     "id": "416",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9825,7 +10253,8 @@
   },
   {
     "id": "417",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9850,7 +10279,8 @@
   },
   {
     "id": "418",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9869,7 +10299,8 @@
   },
   {
     "id": "419",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9890,7 +10321,8 @@
   },
   {
     "id": "420",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9911,7 +10343,8 @@
   },
   {
     "id": "421",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9932,7 +10365,8 @@
   },
   {
     "id": "422",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9953,7 +10387,8 @@
   },
   {
     "id": "423",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9975,7 +10410,8 @@
   },
   {
     "id": "424",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -9994,7 +10430,8 @@
   },
   {
     "id": "425",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10014,7 +10451,8 @@
   },
   {
     "id": "426",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10035,7 +10473,8 @@
   },
   {
     "id": "427",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10054,7 +10493,8 @@
   },
   {
     "id": "428",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10073,7 +10513,8 @@
   },
   {
     "id": "429",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10092,7 +10533,8 @@
   },
   {
     "id": "430",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10111,7 +10553,8 @@
   },
   {
     "id": "431",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10131,7 +10574,8 @@
   },
   {
     "id": "432",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10151,7 +10595,8 @@
   },
   {
     "id": "433",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10170,7 +10615,8 @@
   },
   {
     "id": "434",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10191,7 +10637,8 @@
   },
   {
     "id": "435",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10212,7 +10659,8 @@
   },
   {
     "id": "436",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10233,7 +10681,8 @@
   },
   {
     "id": "437",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10255,7 +10704,8 @@
   },
   {
     "id": "438",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10274,7 +10724,8 @@
   },
   {
     "id": "439",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10294,7 +10745,8 @@
   },
   {
     "id": "440",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10313,7 +10765,8 @@
   },
   {
     "id": "441",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10333,7 +10786,8 @@
   },
   {
     "id": "442",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10354,7 +10808,8 @@
   },
   {
     "id": "443",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10375,7 +10830,8 @@
   },
   {
     "id": "444",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10396,7 +10852,8 @@
   },
   {
     "id": "445",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10417,7 +10874,8 @@
   },
   {
     "id": "446",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10436,7 +10894,8 @@
   },
   {
     "id": "447",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10457,7 +10916,8 @@
   },
   {
     "id": "448",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10476,7 +10936,8 @@
   },
   {
     "id": "449",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10497,7 +10958,8 @@
   },
   {
     "id": "450",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10518,7 +10980,8 @@
   },
   {
     "id": "451",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10543,7 +11006,8 @@
   },
   {
     "id": "452",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10564,7 +11028,8 @@
   },
   {
     "id": "453",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10585,7 +11050,8 @@
   },
   {
     "id": "454",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10606,7 +11072,8 @@
   },
   {
     "id": "455",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10626,7 +11093,8 @@
   },
   {
     "id": "456",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10651,7 +11119,8 @@
   },
   {
     "id": "457",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10671,7 +11140,8 @@
   },
   {
     "id": "458",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10693,7 +11163,8 @@
   },
   {
     "id": "459",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10713,7 +11184,8 @@
   },
   {
     "id": "460",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10733,7 +11205,8 @@
   },
   {
     "id": "461",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10758,7 +11231,8 @@
   },
   {
     "id": "462",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10785,7 +11259,8 @@
   },
   {
     "id": "463",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10806,7 +11281,8 @@
   },
   {
     "id": "464",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10825,7 +11301,8 @@
   },
   {
     "id": "465",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10846,7 +11323,8 @@
   },
   {
     "id": "466",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10866,7 +11344,8 @@
   },
   {
     "id": "467",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10887,7 +11366,8 @@
   },
   {
     "id": "468",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10908,7 +11388,8 @@
   },
   {
     "id": "469",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10929,7 +11410,8 @@
   },
   {
     "id": "470",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10951,7 +11433,8 @@
   },
   {
     "id": "471",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10971,7 +11454,8 @@
   },
   {
     "id": "472",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -10992,7 +11476,8 @@
   },
   {
     "id": "473",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11014,7 +11499,8 @@
   },
   {
     "id": "474",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11035,7 +11521,8 @@
   },
   {
     "id": "475",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11056,7 +11543,8 @@
   },
   {
     "id": "476",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11077,7 +11565,8 @@
   },
   {
     "id": "477",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11098,7 +11587,8 @@
   },
   {
     "id": "478",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11119,7 +11609,8 @@
   },
   {
     "id": "479",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11141,7 +11632,8 @@
   },
   {
     "id": "480",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11163,7 +11655,8 @@
   },
   {
     "id": "481",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11186,7 +11679,8 @@
   },
   {
     "id": "482",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11208,7 +11702,8 @@
   },
   {
     "id": "483",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11229,7 +11724,8 @@
   },
   {
     "id": "484",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11249,7 +11745,8 @@
   },
   {
     "id": "485",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11273,7 +11770,8 @@
   },
   {
     "id": "486",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11296,7 +11794,8 @@
   },
   {
     "id": "487",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11319,7 +11818,8 @@
   },
   {
     "id": "488",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11340,7 +11840,8 @@
   },
   {
     "id": "489",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11361,7 +11862,8 @@
   },
   {
     "id": "490",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11382,7 +11884,8 @@
   },
   {
     "id": "491",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11403,7 +11906,8 @@
   },
   {
     "id": "492",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11424,7 +11928,8 @@
   },
   {
     "id": "493",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11445,7 +11950,8 @@
   },
   {
     "id": "494",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11467,7 +11973,8 @@
   },
   {
     "id": "495",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11488,7 +11995,8 @@
   },
   {
     "id": "496",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11509,7 +12017,8 @@
   },
   {
     "id": "497",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11530,7 +12039,8 @@
   },
   {
     "id": "498",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11550,7 +12060,8 @@
   },
   {
     "id": "499",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11571,7 +12082,8 @@
   },
   {
     "id": "500",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11592,7 +12104,8 @@
   },
   {
     "id": "501",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11615,7 +12128,8 @@
   },
   {
     "id": "502",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11637,7 +12151,8 @@
   },
   {
     "id": "503",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11659,7 +12174,8 @@
   },
   {
     "id": "504",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11681,7 +12197,8 @@
   },
   {
     "id": "505",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11706,7 +12223,8 @@
   },
   {
     "id": "506",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11729,7 +12247,8 @@
   },
   {
     "id": "507",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11752,7 +12271,8 @@
   },
   {
     "id": "508",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11775,7 +12295,8 @@
   },
   {
     "id": "509",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11799,7 +12320,8 @@
   },
   {
     "id": "510",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11821,7 +12343,8 @@
   },
   {
     "id": "511",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11843,7 +12366,8 @@
   },
   {
     "id": "512",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11865,7 +12389,8 @@
   },
   {
     "id": "513",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11886,7 +12411,8 @@
   },
   {
     "id": "514",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11907,7 +12433,8 @@
   },
   {
     "id": "515",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11928,7 +12455,8 @@
   },
   {
     "id": "516",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11948,7 +12476,8 @@
   },
   {
     "id": "517",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11969,7 +12498,8 @@
   },
   {
     "id": "518",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -11990,7 +12520,8 @@
   },
   {
     "id": "519",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12012,7 +12543,8 @@
   },
   {
     "id": "520",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12034,7 +12566,8 @@
   },
   {
     "id": "521",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12055,7 +12588,8 @@
   },
   {
     "id": "522",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12077,7 +12611,8 @@
   },
   {
     "id": "523",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12098,7 +12633,8 @@
   },
   {
     "id": "524",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12119,7 +12655,8 @@
   },
   {
     "id": "525",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12140,7 +12677,8 @@
   },
   {
     "id": "526",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12161,7 +12699,8 @@
   },
   {
     "id": "527",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12182,7 +12721,8 @@
   },
   {
     "id": "528",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12203,7 +12743,8 @@
   },
   {
     "id": "529",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12223,7 +12764,8 @@
   },
   {
     "id": "530",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12242,7 +12784,8 @@
   },
   {
     "id": "531",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12262,7 +12805,8 @@
   },
   {
     "id": "532",
-    "label": "samalamb-bases",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "samalamb-bases",
     "creator": "samalamb-bases",
     "permission": "Personal only",
@@ -12282,11 +12826,12 @@
   },
   {
     "id": "533",
-    "label": "Thatdeadbug",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Thatdeadbug",
     "creator": "Thatdeadbug",
-    "permission": "All usage* (no YCH)",
-    "type": "Anthro / Feral",
+    "permission": "All usage",
+    "type": "Feral, Anthro",
     "tags": [
       "canine",
       "domestic dog",
@@ -12312,7 +12857,8 @@
   },
   {
     "id": "534",
-    "label": "KryoHalo",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "KryoHalo",
     "creator": "KryoHalo",
     "permission": "Adoptables only",
@@ -12334,7 +12880,8 @@
   },
   {
     "id": "535",
-    "label": "Thatsmolldragon",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Thatsmolldragon",
     "creator": "Thatsmolldragon",
     "permission": "Adoptables only",
@@ -12358,7 +12905,8 @@
   },
   {
     "id": "536",
-    "label": "cubukii",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "cubukii",
     "creator": "cubukii",
     "permission": "Adoptables only",
@@ -12382,7 +12930,8 @@
   },
   {
     "id": "537",
-    "label": "cubukii",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "cubukii",
     "creator": "cubukii",
     "permission": "Adoptables only",
@@ -12405,7 +12954,8 @@
   },
   {
     "id": "538",
-    "label": "Luxuria-sins",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Luxuria-sins",
     "creator": "Luxuria-sins",
     "permission": "Adoptables only",
@@ -12429,7 +12979,8 @@
   },
   {
     "id": "539",
-    "label": "GeoNN",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "GeoNN",
     "creator": "GeoNN",
     "permission": "All usage",
@@ -12454,7 +13005,8 @@
   },
   {
     "id": "540",
-    "label": "RottHogg",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "RottHogg",
     "creator": "RottHogg",
     "permission": "All usage",
@@ -12480,7 +13032,8 @@
   },
   {
     "id": "541",
-    "label": "Monstaria",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Monstaria",
     "creator": "Monstaria",
     "permission": "All usage",
@@ -12503,7 +13056,8 @@
   },
   {
     "id": "542",
-    "label": "PokeHusky",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "PokeHusky",
     "creator": "PokeHusky",
     "permission": "Personal only",
@@ -12523,7 +13077,8 @@
   },
   {
     "id": "543",
-    "label": "calmeloni",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "calmeloni",
     "creator": "calmeloni",
     "permission": "All usage",
@@ -12544,7 +13099,8 @@
   },
   {
     "id": "544",
-    "label": "calmeloni",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "calmeloni",
     "creator": "calmeloni",
     "permission": "All usage",
@@ -12566,7 +13122,8 @@
   },
   {
     "id": "545",
-    "label": "Truthless_Recluse",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Truthless_Recluse",
     "creator": "Truthless_Recluse",
     "permission": "All usage",
@@ -12588,7 +13145,8 @@
   },
   {
     "id": "546",
-    "label": "Truthless_Recluse",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Truthless_Recluse",
     "creator": "Truthless_Recluse",
     "permission": "All usage",
@@ -12608,7 +13166,8 @@
   },
   {
     "id": "547",
-    "label": "Truthless_Recluse",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Truthless_Recluse",
     "creator": "Truthless_Recluse",
     "permission": "All usage",
@@ -12629,7 +13188,8 @@
   },
   {
     "id": "548",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12649,7 +13209,8 @@
   },
   {
     "id": "549",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12670,7 +13231,8 @@
   },
   {
     "id": "550",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12692,7 +13254,8 @@
   },
   {
     "id": "551",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12713,7 +13276,8 @@
   },
   {
     "id": "552",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12733,7 +13297,8 @@
   },
   {
     "id": "553",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12753,7 +13318,8 @@
   },
   {
     "id": "554",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12773,7 +13339,8 @@
   },
   {
     "id": "555",
-    "label": "BargainBinBeasts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "BargainBinBeasts",
     "creator": "BargainBinBeasts",
     "permission": "All usage",
@@ -12797,7 +13364,8 @@
   },
   {
     "id": "556",
-    "label": "Blawzi",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Blawzi",
     "creator": "Blawzi",
     "permission": "All usage",
@@ -12817,7 +13385,8 @@
   },
   {
     "id": "557",
-    "label": "Blawzi",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Blawzi",
     "creator": "Blawzi",
     "permission": "All usage",
@@ -12837,7 +13406,8 @@
   },
   {
     "id": "558",
-    "label": "sharkgarden",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "sharkgarden",
     "creator": "sharkgarden",
     "permission": "All usage",
@@ -12857,7 +13427,8 @@
   },
   {
     "id": "559",
-    "label": "eelcrate",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "eelcrate",
     "creator": "eelcrate",
     "permission": "All usage",
@@ -12880,7 +13451,8 @@
   },
   {
     "id": "560",
-    "label": "theTomb",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "theTomb",
     "creator": "theTomb",
     "permission": "All usage",
@@ -12907,7 +13479,8 @@
   },
   {
     "id": "561",
-    "label": "ToasterHatesYou",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "ToasterHatesYou",
     "creator": "ToasterHatesYou",
     "permission": "Adoptables only",
@@ -12930,7 +13503,8 @@
   },
   {
     "id": "562",
-    "label": "koghosts",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "koghosts",
     "creator": "koghosts",
     "permission": "All usage",
@@ -12952,7 +13526,8 @@
   },
   {
     "id": "563",
-    "label": "puppydayze",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "puppydayze",
     "creator": "puppydayze",
     "permission": "All usage",
@@ -12973,7 +13548,8 @@
   },
   {
     "id": "564",
-    "label": "GlimmeringOcean",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "GlimmeringOcean",
     "creator": "GlimmeringOcean",
     "permission": "Personal only",
@@ -12994,7 +13570,8 @@
   },
   {
     "id": "565",
-    "label": "ToasterHatesYou",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "ToasterHatesYou",
     "creator": "ToasterHatesYou",
     "permission": "Adoptables only",
@@ -13016,7 +13593,8 @@
   },
   {
     "id": "566",
-    "label": "ToasterHatesYou",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "ToasterHatesYou",
     "creator": "ToasterHatesYou",
     "permission": "Adoptables only",
@@ -13038,7 +13616,8 @@
   },
   {
     "id": "567",
-    "label": "ToasterHatesYou",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "ToasterHatesYou",
     "creator": "ToasterHatesYou",
     "permission": "Adoptables only",
@@ -13060,7 +13639,8 @@
   },
   {
     "id": "568",
-    "label": "ToasterHatesYou",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "ToasterHatesYou",
     "creator": "ToasterHatesYou",
     "permission": "Adoptables only",
@@ -13088,7 +13668,8 @@
   },
   {
     "id": "569",
-    "label": "Meinir",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Meinir",
     "creator": "Meinir",
     "permission": "All usage",
@@ -13110,7 +13691,8 @@
   },
   {
     "id": "570",
-    "label": "Meinir",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Meinir",
     "creator": "Meinir",
     "permission": "All usage",
@@ -13132,7 +13714,8 @@
   },
   {
     "id": "571",
-    "label": "aloetero",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "aloetero",
     "creator": "aloetero",
     "permission": "Adoptables only",
@@ -13151,7 +13734,8 @@
   },
   {
     "id": "572",
-    "label": "shadybug",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "shadybug",
     "creator": "shadybug",
     "permission": "All usage",
@@ -13200,7 +13784,7 @@
       "Canine",
       "Feline",
       "Fantasy",
-      "Multi-Species",
+      "Multi-species",
       "Other Species",
       "Rodent",
       "Reptile"
@@ -13213,7 +13797,8 @@
   },
   {
     "id": "573",
-    "label": "1lluminae",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "1lluminae",
     "creator": "1lluminae",
     "permission": "Adoptables only",
@@ -13234,7 +13819,8 @@
   },
   {
     "id": "574",
-    "label": "jastmania",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "jastmania",
     "creator": "jastmania",
     "permission": "All usage",
@@ -13255,7 +13841,8 @@
   },
   {
     "id": "575",
-    "label": "Rainkitz_cats",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Rainkitz_cats",
     "creator": "Rainkitz_cats",
     "permission": "Adoptables only",
@@ -13276,7 +13863,8 @@
   },
   {
     "id": "576",
-    "label": "jastmania",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "jastmania",
     "creator": "jastmania",
     "permission": "All usage",
@@ -13296,7 +13884,8 @@
   },
   {
     "id": "577",
-    "label": "Gemstuff",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Gemstuff",
     "creator": "Gemstuff",
     "permission": "Adoptables only",
@@ -13318,7 +13907,8 @@
   },
   {
     "id": "578",
-    "label": "Gemstuff",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Gemstuff",
     "creator": "Gemstuff",
     "permission": "Adoptables only",
@@ -13369,7 +13959,8 @@
   },
   {
     "id": "579",
-    "label": "oshaviolation",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "oshaviolation",
     "creator": "oshaviolation",
     "permission": "All usage",
@@ -13392,7 +13983,8 @@
   },
   {
     "id": "580",
-    "label": "oshaviolation",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "oshaviolation",
     "creator": "oshaviolation",
     "permission": "All usage",
@@ -13415,7 +14007,8 @@
   },
   {
     "id": "581",
-    "label": "oshaviolation",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "oshaviolation",
     "creator": "oshaviolation",
     "permission": "All usage",
@@ -13437,7 +14030,8 @@
   },
   {
     "id": "582",
-    "label": "HauntedHayrides",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "HauntedHayrides",
     "creator": "HauntedHayrides",
     "permission": "Adoptables only",
@@ -13459,7 +14053,8 @@
   },
   {
     "id": "583",
-    "label": "entangled-life",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "entangled-life",
     "creator": "entangled-life",
     "permission": "All usage",
@@ -13486,7 +14081,8 @@
   },
   {
     "id": "584",
-    "label": "perikiro",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "perikiro",
     "creator": "perikiro",
     "permission": "All usage",
@@ -13507,7 +14103,8 @@
   },
   {
     "id": "585",
-    "label": "perikiro",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "perikiro",
     "creator": "perikiro",
     "permission": "All usage",
@@ -13527,7 +14124,8 @@
   },
   {
     "id": "586",
-    "label": "perikiro",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "perikiro",
     "creator": "perikiro",
     "permission": "Personal only",
@@ -13557,7 +14155,8 @@
   },
   {
     "id": "587",
-    "label": "perikiro",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "perikiro",
     "creator": "perikiro",
     "permission": "All usage",
@@ -13585,7 +14184,8 @@
   },
   {
     "id": "588",
-    "label": "perikiro",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "perikiro",
     "creator": "perikiro",
     "permission": "Personal only",
@@ -13616,7 +14216,8 @@
   },
   {
     "id": "589",
-    "label": "perikiro",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "perikiro",
     "creator": "perikiro",
     "permission": "All usage",
@@ -13638,7 +14239,8 @@
   },
   {
     "id": "590",
-    "label": "TropicalSteppe",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "TropicalSteppe",
     "creator": "TropicalSteppe",
     "permission": "All usage",
@@ -13658,7 +14260,8 @@
   },
   {
     "id": "591",
-    "label": "F-R95",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "F-R95",
     "creator": "F-R95",
     "permission": "All usage",
@@ -13683,7 +14286,8 @@
   },
   {
     "id": "592",
-    "label": "F-R95",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "F-R95",
     "creator": "F-R95",
     "permission": "All usage",
@@ -13712,7 +14316,8 @@
   },
   {
     "id": "593",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13734,7 +14339,8 @@
   },
   {
     "id": "594",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13755,7 +14361,8 @@
   },
   {
     "id": "595",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13777,7 +14384,8 @@
   },
   {
     "id": "596",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13798,7 +14406,8 @@
   },
   {
     "id": "597",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13821,7 +14430,8 @@
   },
   {
     "id": "598",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13844,7 +14454,8 @@
   },
   {
     "id": "599",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13864,7 +14475,8 @@
   },
   {
     "id": "600",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13885,7 +14497,8 @@
   },
   {
     "id": "601",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13905,7 +14518,8 @@
   },
   {
     "id": "602",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13925,7 +14539,8 @@
   },
   {
     "id": "603",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13951,7 +14566,8 @@
   },
   {
     "id": "604",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13971,7 +14587,8 @@
   },
   {
     "id": "605",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -13992,7 +14609,8 @@
   },
   {
     "id": "606",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -14013,7 +14631,8 @@
   },
   {
     "id": "607",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -14034,7 +14653,8 @@
   },
   {
     "id": "608",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -14055,7 +14675,8 @@
   },
   {
     "id": "609",
-    "label": "guardianarkveld",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "guardianarkveld",
     "creator": "guardianarkveld",
     "permission": "All usage",
@@ -14077,7 +14698,8 @@
   },
   {
     "id": "610",
-    "label": "RaptorTeeth",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "RaptorTeeth",
     "creator": "RaptorTeeth",
     "permission": "All usage",
@@ -14096,7 +14718,8 @@
   },
   {
     "id": "611",
-    "label": "RaptorTeeth",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "RaptorTeeth",
     "creator": "RaptorTeeth",
     "permission": "All usage",
@@ -14115,7 +14738,8 @@
   },
   {
     "id": "612",
-    "label": "shourigurey",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "shourigurey",
     "creator": "shourigurey",
     "permission": "Adoptables only",
@@ -14138,7 +14762,8 @@
   },
   {
     "id": "613",
-    "label": "shourigurey",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "shourigurey",
     "creator": "shourigurey",
     "permission": "Adoptables only",
@@ -14159,7 +14784,8 @@
   },
   {
     "id": "614",
-    "label": "shourigurey",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "shourigurey",
     "creator": "shourigurey",
     "permission": "Adoptables only",
@@ -14179,7 +14805,8 @@
   },
   {
     "id": "615",
-    "label": "shourigurey",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "shourigurey",
     "creator": "shourigurey",
     "permission": "Adoptables only",
@@ -14201,7 +14828,8 @@
   },
   {
     "id": "616",
-    "label": "TurquoiseThorns",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "TurquoiseThorns",
     "creator": "TurquoiseThorns",
     "permission": "Adoptables only",
@@ -14222,7 +14850,8 @@
   },
   {
     "id": "617",
-    "label": "xTheDragonRebornx",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "xTheDragonRebornx",
     "creator": "xTheDragonRebornx",
     "permission": "All usage",
@@ -14249,7 +14878,8 @@
   },
   {
     "id": "618",
-    "label": "xTheDragonRebornx",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "xTheDragonRebornx",
     "creator": "xTheDragonRebornx",
     "permission": "All usage",
@@ -14276,7 +14906,8 @@
   },
   {
     "id": "619",
-    "label": "JustAGrook",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "JustAGrook",
     "creator": "JustAGrook",
     "permission": "All usage",
@@ -14297,7 +14928,8 @@
   },
   {
     "id": "620",
-    "label": "JustAGrook",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "JustAGrook",
     "creator": "JustAGrook",
     "permission": "All usage",
@@ -14317,7 +14949,8 @@
   },
   {
     "id": "621",
-    "label": "JustAGrook",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "JustAGrook",
     "creator": "JustAGrook",
     "permission": "All usage",
@@ -14339,7 +14972,8 @@
   },
   {
     "id": "622",
-    "label": "JustAGrook",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "JustAGrook",
     "creator": "JustAGrook",
     "permission": "All usage",
@@ -14368,7 +15002,8 @@
   },
   {
     "id": "623",
-    "label": "JustAGrook",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "JustAGrook",
     "creator": "JustAGrook",
     "permission": "All usage",
@@ -14398,7 +15033,8 @@
   },
   {
     "id": "624",
-    "label": "JustAGrook",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "JustAGrook",
     "creator": "JustAGrook",
     "permission": "All usage",
@@ -14427,7 +15063,8 @@
   },
   {
     "id": "625",
-    "label": "FANGNULL",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "FANGNULL",
     "creator": "FANGNULL",
     "permission": "All usage",
@@ -14460,7 +15097,8 @@
   },
   {
     "id": "626",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14483,7 +15121,8 @@
   },
   {
     "id": "627",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14506,7 +15145,8 @@
   },
   {
     "id": "628",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14532,7 +15172,8 @@
   },
   {
     "id": "629",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14554,7 +15195,8 @@
   },
   {
     "id": "630",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14573,7 +15215,8 @@
   },
   {
     "id": "631",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14596,7 +15239,8 @@
   },
   {
     "id": "632",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14616,7 +15260,8 @@
   },
   {
     "id": "633",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14635,7 +15280,8 @@
   },
   {
     "id": "634",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14660,7 +15306,8 @@
   },
   {
     "id": "635",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14681,7 +15328,8 @@
   },
   {
     "id": "636",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14702,7 +15350,8 @@
   },
   {
     "id": "637",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14725,7 +15374,8 @@
   },
   {
     "id": "638",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14748,7 +15398,8 @@
   },
   {
     "id": "639",
-    "label": "whalienworks",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "whalienworks",
     "creator": "whalienworks",
     "permission": "All usage",
@@ -14769,7 +15420,8 @@
   },
   {
     "id": "640",
-    "label": "dogsville",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "dogsville",
     "creator": "dogsville",
     "permission": "All usage",
@@ -14798,7 +15450,8 @@
   },
   {
     "id": "641",
-    "label": "Telloris_Caprell",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "Telloris_Caprell",
     "creator": "Telloris_Caprell",
     "permission": "All usage",
@@ -14817,7 +15470,8 @@
   },
   {
     "id": "642",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14837,7 +15491,8 @@
   },
   {
     "id": "643",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14857,7 +15512,8 @@
   },
   {
     "id": "644",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14877,7 +15533,8 @@
   },
   {
     "id": "645",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14896,7 +15553,8 @@
   },
   {
     "id": "646",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14915,7 +15573,8 @@
   },
   {
     "id": "647",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14936,7 +15595,8 @@
   },
   {
     "id": "648",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14955,7 +15615,8 @@
   },
   {
     "id": "649",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14975,7 +15636,8 @@
   },
   {
     "id": "650",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -14995,7 +15657,8 @@
   },
   {
     "id": "651",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -15015,7 +15678,8 @@
   },
   {
     "id": "652",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -15035,7 +15699,8 @@
   },
   {
     "id": "653",
-    "label": "abakkus",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "abakkus",
     "creator": "abakkus",
     "permission": "Adoptables only",
@@ -15055,7 +15720,8 @@
   },
   {
     "id": "654",
-    "label": "PUPPYSPHERE",
+    "baseName": "",
+    "label": "Untitled base",
     "credit": "PUPPYSPHERE",
     "creator": "PUPPYSPHERE",
     "permission": "Adoptables only",
@@ -15116,7 +15782,7 @@
       "Avian",
       "Canine",
       "Feline",
-      "Multi-Species",
+      "Multi-species",
       "Rodent",
       "Ungulate/Hooved"
     ],
@@ -15124,6 +15790,71 @@
     "site": "Toyhouse",
     "link": "https://toyhou.se/41154387.1-multiespecies-f2u-base",
     "creatorLink": "https://toyhou.se/PUPPYSPHERE",
+    "source": "Data"
+  },
+  {
+    "id": "655",
+    "baseName": "Sketchy Style Chibi Base 1",
+    "label": "Sketchy Style Chibi Base 1",
+    "credit": "PastelPlagues",
+    "creator": "PastelPlagues",
+    "permission": "Adoptables only",
+    "type": "Feral",
+    "tags": [
+      "chibi",
+      "feline",
+      "domestic cat"
+    ],
+    "categories": [
+      "Feline"
+    ],
+    "preview": "https://storage.ko-fi.com/cdn/useruploads/display/2748c1e4-5086-4b0f-9491-95e87b2ada90_base.png",
+    "site": "Toyhouse",
+    "link": "https://ko-fi.com/s/abb0c87f2b",
+    "creatorLink": "https://toyhou.se/PastelPlagues",
+    "source": "Data"
+  },
+  {
+    "id": "656",
+    "baseName": "Teeny Weeny Base",
+    "label": "Teeny Weeny Base",
+    "credit": "PastelPlagues",
+    "creator": "PastelPlagues",
+    "permission": "Adoptables only",
+    "type": "Feral",
+    "tags": [
+      "chibi",
+      "feline",
+      "domestic cat"
+    ],
+    "categories": [
+      "Feline"
+    ],
+    "preview": "https://storage.ko-fi.com/cdn/useruploads/display/698060cf-dd30-4e35-9a22-4e7ed5071b84_tiny2.png",
+    "site": "Toyhouse",
+    "link": "https://ko-fi.com/s/f21f15515a",
+    "creatorLink": "https://toyhou.se/PastelPlagues",
+    "source": "Data"
+  },
+  {
+    "id": "657",
+    "baseName": "F2U Sergal Base",
+    "label": "F2U Sergal Base",
+    "credit": "NeverMown",
+    "creator": "NeverMown",
+    "permission": "All usage",
+    "type": "Anthro",
+    "tags": [
+      "sergal",
+      "open species"
+    ],
+    "categories": [
+      "Other Species"
+    ],
+    "preview": "https://d.furaffinity.net/art/nevermown/1589575805/1589575757.nevermown_lineart_by_nevermown.png",
+    "site": "Payhip",
+    "link": "https://payhip.com/b/B1jJ",
+    "creatorLink": "https://www.furaffinity.net/user/nevermown/",
     "source": "Data"
   }
 ]
