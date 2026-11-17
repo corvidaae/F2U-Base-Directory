@@ -1,12 +1,3 @@
-/**
- * Base Directory backend
- * 1. Set SPREADSHEET_ID to your Google Sheets ID.
- * 2. Deploy as a Web App: Execute as Me; Who has access: Anyone.
- * 3. Paste the deployed /exec URL into config.js as apiUrl.
- *
- * GET returns the published directory rows from the "Data" tab.
- * POST appends community suggestions to a separate "Submissions" tab.
- */
 const SPREADSHEET_ID = "1UU0ls3bft1uOqoKjsMtL1Y2BmIw04R2R2hy5uvGo2B8";
 const DATA_SHEET_NAME = "Data";
 const SUBMISSIONS_SHEET_NAME = "Submissions";
@@ -54,7 +45,7 @@ function doPost(e) {
     let sheet = ss.getSheetByName(SUBMISSIONS_SHEET_NAME);
     if (!sheet) {
       sheet = ss.insertSheet(SUBMISSIONS_SHEET_NAME);
-      sheet.appendRow(["Submitted at", "Status", "Name", "Creator", "Platform", "Listing URL", "Permission", "Type", "Tags"]);
+      sheet.appendRow(["Submitted at", "Status", "Name", "Creator", "Platform", "Listing URL", "Permission", "Base type(s)", "Tags"]);
       sheet.setFrozenRows(1);
     }
     sheet.appendRow([new Date(), "Pending review", label, creator, site, link,
