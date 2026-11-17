@@ -24,7 +24,7 @@ listings for more information.
 
 ## Visit the site
 
-Tthe site will be available at:
+The site is available at:
 
 `https://corvidaae.github.io/F2U-Base-Directory/`
 
@@ -43,13 +43,6 @@ Tthe site will be available at:
 
 1.  Download or clone this repository.
 2.  Open `index.html` in a browser.
-
-### Community submission review
-
-Submissions are sent to the spreadsheet's `Submissions` sheet and marked
-**Pending review**. Review each submission and verify its source and
-permissions before adding it to the public `Data` directory. The form
-does not automatically publish submissions.
 
 ## Usage and permissions
 
