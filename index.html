@@ -41,7 +41,12 @@
           <div class="filter-head"><h3>Filters</h3><button id="clear-filters" class="text-button">Clear all</button></div>
           <label>Category<select id="category"><option value="">All categories</option></select></label>
           <label>Usage permission<select id="permission"><option value="">Any permission</option></select></label>
-          <label>Base type<select id="type"><option value="">Any type</option></select></label>
+          <fieldset class="filter-type-options"><legend>Base type</legend><div class="filter-type-checkboxes">
+            <label><input type="checkbox" name="type-filter" value="Feral"> Feral</label>
+            <label><input type="checkbox" name="type-filter" value="Anthro"> Anthro</label>
+            <label><input type="checkbox" name="type-filter" value="Humanoid"> Humanoid</label>
+            <label><input type="checkbox" name="type-filter" value="Asset"> Asset</label>
+          </div></fieldset>
           <label>Platform<select id="site"><option value="">Any platform</option></select></label>
           <label class="check-label"><input type="checkbox" id="has-preview"> Only show entries with previews</label>
           <div class="filter-note">Always check the creator's original rules before using a base. Directory labels are general guidance, not a replacement for the original terms.</div>
