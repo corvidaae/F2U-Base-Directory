@@ -26,8 +26,7 @@ listings for more information.
 
 Tthe site will be available at:
 
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
-
+`https://corvidaae.github.io/F2U-Base-Directory/`
 
 
 ## Getting started
@@ -44,51 +43,6 @@ Tthe site will be available at:
 
 1.  Download or clone this repository.
 2.  Open `index.html` in a browser.
-
-For the most reliable local testing, serve the repository through a
-local development server rather than opening the file directly. No build
-step is required.
-
-## Deploy with GitHub Pages
-
-1.  Create a GitHub repository.
-2.  Upload the contents of this project to the repository's root
-    directory. Make sure `index.html`, `styles.css`, `app.js`,
-    `config.js`, and `data.json` are at the top level.
-3.  Open the repository's **Settings**.
-4.  Select **Pages**.
-5.  Under **Build and deployment**, choose **Deploy from a branch**.
-6.  Select the `main` branch and the `/ (root)` folder, then save.
-7.  Wait for GitHub Pages to publish the site. The published URL will
-    appear in the Pages settings.
-
-## Directory data
-
-By default, the site uses `data.json`. The included file is a snapshot
-of the directory data exported from the spreadsheet.
-
-Each entry can include:
-
-  Field           Description
-  --------------- -------------------------------------------------
-  `id`            Unique listing identifier
-  `label`         Listing label or credited name used for display
-  `credit`        Credited creator
-  `creator`       Creator name
-  `permission`    Generalized usage permission
-  `type`          Base type
-  `tags`          Searchable tags
-  `categories`    Directory categories
-  `preview`       Preview image URL
-  `site`          Platform where the listing is hosted
-  `link`          Original listing URL
-  `creatorLink`   Creator profile URL
-  `source`        Source tab or dataset label
-
-The source spreadsheet does not provide a separate title/name field for
-every base. The site therefore uses the available credited/listing name
-rather than inventing a base title.
-
 
 ### Community submission review
 
@@ -115,30 +69,6 @@ Before using a base:
 The directory is an index and discovery tool. It does not claim
 ownership of listed bases, artwork, previews, or creator materials.
 Rights remain with their respective creators.
-
-## Project files
-
-  -----------------------------------------------------------------------
-  File                                Purpose
-  ----------------------------------- -----------------------------------
-  `index.html`                        Main website page
-
-  `styles.css`                        Layout, styling, and responsive
-                                      rules
-
-  `app.js`                            Search, filters, sorting, gallery,
-                                      and detail view
-
-  `config.js`                         Site configuration, API URL, and
-                                      page size
-
-  `data.json`                         Static directory data snapshot
-
-  `google-apps-script.gs`             Optional Google Sheets API and
-                                      submission handler
-
-  `README.md`                         Project documentation
-  -----------------------------------------------------------------------
 
 ## Help and issues
 
