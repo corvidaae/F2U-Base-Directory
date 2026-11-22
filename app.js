@@ -57,20 +57,20 @@ function usageIndicator(permission) {
     const value = String(permission || "").toLowerCase();
 
     if (value.includes("personal")) {
-        return `<span class="usage-badge personal">PERSONAL ONLY: ✕</span>`;
+        return `<span class="usage-tag personal"><span class="usage-icon">✕</span> Personal only</span>`;
     }
 
     if (value.includes("adoptable")) {
-        return `<span class="usage-badge adoptables">ADOPTABLES: −</span>`;
+        return `<span class="usage-tag adoptables"><span class="usage-icon">−</span> Adoptables</span>`;
     }
 
     if (value.includes("all usage") || value.includes("all uses")) {
-        return `<span class="usage-badge all-usage">ALL USAGE: ✓</span>`;
+        return `<span class="usage-tag all-usage"><span class="usage-icon">✓</span> All usage</span>`;
     }
 
-    return `<span class="usage-badge unknown">USAGE: ?</span>`;
+    return `<span class="usage-tag unknown">? Not specified</span>`;
 }
-
+  
 function card(x) {
     const image = x.preview
         ? `<img loading="lazy" src="${safe(x.preview)}" alt="" onerror="this.parentElement.innerHTML='<span class=&quot;no-image&quot;>PREVIEW UNAVAILABLE</span>'">`
