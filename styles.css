@@ -360,11 +360,16 @@ input[type=checkbox] {
     overflow: hidden;
     cursor: pointer;
     transition: transform .18s, border-color .18s;
+    background-color: #19191f !important;
 }
 
 .base-card:hover {
     transform: translateY(-3px);
     border-color: #8e6bc0;
+}
+
+.base-card .card-body {
+    background-color: #19191f !important;
 }
 
 .card-image {
