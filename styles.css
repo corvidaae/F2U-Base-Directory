@@ -421,45 +421,47 @@ input[type=checkbox] {
 .usage-section {
     display: flex;
     align-items: center;
-    gap: 10px;
+    flex-wrap: wrap;
+    gap: 6px;
     margin-top: 12px;
-    padding: 9px 0;
-    border-top: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
 }
 
 .usage-label {
-    font: 500 9px 'DM Mono', monospace;
     color: var(--muted);
-    letter-spacing: .1em;
+    font: 9px 'DM Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    margin-right: 3px;
 }
 
-.usage-indicator {
+.usage-tag {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
-    font-size: 10px;
-    font-weight: 600;
+    gap: 4px;
+    background: #292431;
+    border-radius: 4px;
+    padding: 3px 7px;
+    font: 9px 'DM Mono', monospace;
 }
 
 .usage-icon {
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 11px;
+    font-weight: bold;
 }
 
-.usage-indicator.personal {
-    color: #ef5555;
+.usage-tag.personal {
+    color: #ef7777;
 }
 
-.usage-indicator.adoptables {
-    color: #d6b36b;
+.usage-tag.adoptables {
+    color: #e6a34e;
 }
 
-.usage-indicator.all-usage {
-    color: #55c987;
+.usage-tag.all-usage {
+    color: #65cf8a;
 }
 
-.usage-indicator.unknown {
+.usage-tag.unknown {
     color: var(--muted);
 }
 
