@@ -360,7 +360,7 @@ input[type=checkbox] {
     overflow: hidden;
     cursor: pointer;
     transition: transform .18s, border-color .18s;
-    background-color: #19191f !important;
+    background-color: #ffffff !important;
 }
 
 .base-card:hover {
@@ -369,7 +369,7 @@ input[type=checkbox] {
 }
 
 .base-card .card-body {
-    background-color: #19191f !important;
+    background-color: #ffffff !important;
 }
 
 .card-image {
