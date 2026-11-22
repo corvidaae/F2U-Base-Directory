@@ -354,7 +354,7 @@ input[type=checkbox] {
 
 .base-card {
     min-width: 0;
-    background: var(--panel);
+    background: #19191f;
     border: 1px solid var(--line);
     border-radius: 12px;
     overflow: hidden;
@@ -393,6 +393,7 @@ input[type=checkbox] {
 }
 
 .card-body {
+    background: #19191f;
     padding: 14px;
 }
 
