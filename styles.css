@@ -413,6 +413,52 @@ input[type=checkbox] {
     font-size: 11px;
 }
 
+.usage-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 12px;
+    padding: 9px 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+}
+
+.usage-label {
+    font: 500 9px 'DM Mono', monospace;
+    color: var(--muted);
+    letter-spacing: .1em;
+}
+
+.usage-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.usage-icon {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.usage-indicator.personal {
+    color: #ef5555;
+}
+
+.usage-indicator.adoptables {
+    color: #d6b36b;
+}
+
+.usage-indicator.all-usage {
+    color: #55c987;
+}
+
+.usage-indicator.unknown {
+    color: var(--muted);
+}
+
+
 .tag-list {
     display: flex;
     flex-wrap: wrap;
