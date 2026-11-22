@@ -52,11 +52,94 @@
     const types=els.typeFilters.filter(el=>el.checked).map(el=>`<button data-clear-type="${safe(el.value)}">${safe(el.value)} ×</button>`).join("");
     els.active.innerHTML=standard+types+(els.preview.checked?'<button data-clear="preview">Has preview ×</button>':"");
   }
-  function card(x) {
-    const image=x.preview?`<img loading="lazy" src="${safe(x.preview)}" alt="" onerror="this.parentElement.innerHTML='<span class=&quot;no-image&quot;>PREVIEW UNAVAILABLE</span>'">`:'<span class="no-image">NO PREVIEW IMAGE</span>';
-    const tags=x.tags.slice(0,4).map(t=>`<span class="tag">${safe(t)}</span>`).join("");
-    return `<article class="base-card" tabindex="0" role="button" data-id="${safe(x.id)}" aria-label="View ${safe(x.label)}"><div class="card-image">${image}</div><div class="card-body"><div class="card-kicker"><span>${safe(x.categories[0]||"BASE")}</span><span>${safe(x.permission)}</span></div><h3 class="card-title">${safe(x.label)}</h3><div class="card-creator">Creator: ${safe(x.creator||x.credit||"Unknown creator")}</div><div class="tag-list">${tags}</div><div class="card-footer"><span>${safe(x.type||"Unspecified type")}</span><span>View details ↗</span></div></div></article>`;
-  }
+ 
+function usageIndicator(permission) {
+    const value = String(permission || "").toLowerCase();
+
+    if (value.includes("personal")) {
+        return `
+            <div class="usage-indicator personal">
+                <span class="usage-icon">✕</span>
+                <span>Personal only</span>
+            </div>
+        `;
+    }
+
+    if (value.includes("adoptable")) {
+        return `
+            <div class="usage-indicator adoptables">
+                <span class="usage-icon">−</span>
+                <span>Adoptables</span>
+            </div>
+        `;
+    }
+
+    if (value.includes("all usage") || value.includes("all uses")) {
+        return `
+            <div class="usage-indicator all-usage">
+                <span class="usage-icon">✓</span>
+                <span>All usage</span>
+            </div>
+        `;
+    }
+
+    return `
+        <div class="usage-indicator unknown">
+            <span class="usage-icon">?</span>
+            <span>Not specified</span>
+        </div>
+    `;
+}
+
+function card(x) {
+    const image = x.preview
+        ? `<img loading="lazy" src="${safe(x.preview)}" alt="" onerror="this.parentElement.innerHTML='<span class=&quot;no-image&quot;>PREVIEW UNAVAILABLE</span>'">`
+        : '<span class="no-image">NO PREVIEW IMAGE</span>';
+
+    const tags = x.tags.slice(0, 4)
+        .map(t => `<span class="tag">${safe(t)}</span>`)
+        .join("");
+
+    const usage = usageIndicator(x.permission);
+
+    return `
+        <article class="base-card" tabindex="0" role="button"
+            data-id="${safe(x.id)}"
+            aria-label="View ${safe(x.label)}">
+
+            <div class="card-image">
+                ${image}
+            </div>
+
+            <div class="card-body">
+
+                <div class="card-kicker">
+                    <span>${safe(x.categories[0] || "BASE")}</span>
+                    <span>${safe(x.type || "")}</span>
+                </div>
+
+                <h3 class="card-title">${safe(x.label)}</h3>
+
+                <div class="card-creator">
+                    Creator: ${safe(x.creator || x.credit || "Unknown creator")}
+                </div>
+
+                <div class="usage-section">
+                    <span class="usage-label">USAGE</span>
+                    ${usage}
+                </div>
+
+                <div class="tag-list">${tags}</div>
+
+                <div class="card-footer">
+                    <span>${safe(x.type || "Unspecified type")}</span>
+                    <span>View details ↗</span>
+                </div>
+
+            </div>
+        </article>
+    `;
+}
   function renderMore() {
     const next=filtered.slice(shown,shown+pageSize);
     els.cards.insertAdjacentHTML("beforeend",next.map(card).join(""));
