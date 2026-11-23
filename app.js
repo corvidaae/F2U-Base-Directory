@@ -112,7 +112,6 @@ function card(x) {
                 <div class="tag-list">${tags}</div>
 
                 <div class="card-footer">
-                    <span>${safe(x.type || "Unspecified type")}</span>
                     <span>View details ↗</span>
                 </div>
 
