@@ -557,6 +557,27 @@ input[type=checkbox] {
     max-width: 650px;
 }
 
+.about-item {
+    padding: 12px 14px;
+    margin: 10px 0;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+}
+
+.about-item h4 {
+    margin: 0 0 6px;
+    font-size: 11px;
+    letter-spacing: .08em;
+}
+
+.about-item p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--muted);
+}
+
 .submit-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
