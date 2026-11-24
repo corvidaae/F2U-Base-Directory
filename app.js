@@ -18,13 +18,15 @@
     const current=el.value; el.innerHTML=`<option value="">${first}</option>`+values.map(v=>`<option value="${safe(v)}">${safe(v)}</option>`).join("");
     if(values.includes(current)) el.value=current;
   }
-  function setupFilters() {
+ function setupFilters() {
     fillSelect(els.category,uniq(all.flatMap(catsOf)),"All categories");
     fillSelect(els.permission,uniq(all.map(x=>x.permission)),"Any permission");
     fillSelect(els.site,uniq(all.map(x=>x.site)),"Any platform");
-    els.total.textContent=all.length.toLocaleString();
-    els.cats.textContent=uniq(all.flatMap(catsOf)).length.toLocaleString();
-  }
+
+    if (els.total) {
+        els.total.textContent = all.length.toLocaleString();
+    }
+}
   function matches(x,q) {
     const hay=[x.baseName,x.label,x.credit,x.creator,x.permission,x.type,x.site,...x.tags,...x.categories].join(" ").toLowerCase();
     return !q || hay.includes(q);
