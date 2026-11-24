@@ -11,23 +11,27 @@
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a class="brand" href="./" aria-label="Base Directory home"><span class="brand-mark">✦</span><span>BASE DIRECTORY</span></a>
+      <a class="brand" href="./" aria-label="Base Directory home">
+    BASE DIRECTORY
+</a>
       <nav><a href="#directory">Browse</a><a href="#about">About</a><a href="#submit">Submit a base</a></nav>
     </div>
   </header>
 
   <main>
     <section class="hero">
-      <p class="eyebrow">COMMUNITY RESOURCE</p>
-      <h1>Find your next <em>base.</em></h1>
-      <p class="hero-copy">A searchable directory of free-to-use and community-shared bases. Explore by species, style, creator, and usage permissions.</p>
-      <a class="primary-button" href="#directory">Explore the directory <span>↓</span></a>
-      <div class="hero-stats"><div><strong id="total-count">—</strong><span>directory entries</span></div><div><strong id="category-count">—</strong><span>categories</span></div><div><strong>Community</strong><span>maintained resource</span></div></div>
-    </section>
+    <p class="eyebrow">BASE DIRECTORY</p>
+    <h1>Find your next base.</h1>
+    <p class="hero-copy">
+        A searchable directory of free-to-use and community-shared bases.
+        Explore by species, style, creator, and usage permissions.
+    </p>
+    <a class="primary-button" href="#directory">Browse bases</a>
+</section>
 
     <section class="directory-section" id="directory">
       <div class="section-heading">
-        <div><p class="eyebrow">THE COLLECTION</p><h2>Browse bases</h2></div>
+        <div><h2>Browse bases</h2></div>
         <span class="result-count" id="result-count" aria-live="polite">Loading entries…</span>
       </div>
 
@@ -55,7 +59,11 @@
         <div class="results-area">
           <div id="active-filters" class="active-filters"></div>
           <div id="cards" class="cards" aria-live="polite"></div>
-          <div id="empty" class="empty-state" hidden><span>✧</span><h3>No bases found</h3><p>Try a different search or clear some filters.</p><button class="secondary-button" id="empty-clear">Clear filters</button></div>
+         <div class="empty-state" id="empty" hidden>
+            <h3>No bases found</h3>
+              <p>Try a different search or clear some filters.</p>
+    <button class="secondary-button" id="empty-clear">Clear filters</button>
+</div>
           <div class="load-more-wrap"><button id="load-more" class="secondary-button" hidden>Load more</button></div>
         </div>
       </div>
